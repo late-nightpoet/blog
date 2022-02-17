@@ -5,9 +5,9 @@ var vm = new Vue({
     data: {
         host,
         show_menu:false,
-        mobile:'',
-        mobile_error:false,
-        mobile_error_message:'手机号错误',
+        email:'',
+        email_error:false,
+        email_error_message:'邮箱错误',
         password:'',
         password_error:false,
         password_error_message:'密码错误',
@@ -18,10 +18,10 @@ var vm = new Vue({
         image_code:'',
         image_code_error:false,
         image_code_error_message:'图片验证码错误',
-        sms_code:'',
-        sms_code_error:false,
-        sms_code_error_message:'短信验证码错误',
-        sms_code_message:'点击获取验证码',
+        email_code:'',
+        email_code_error:false,
+        email_code_error_message:'邮箱验证码错误',
+        email_code_message:'点击获取验证码',
         sending_flag:false,
         image_code_url:''
     },
@@ -53,12 +53,12 @@ var vm = new Vue({
             this.image_code_url = this.host + "/imagecode/?uuid=" + this.uuid;
         },
         //检查手机号
-        check_mobile: function(){
-            var re = /^1[3-9]\d{9}$/;
-            if (re.test(this.mobile)) {
-                this.mobile_error = false;
+        check_email: function(){
+            var re = /^[A-Za-zd]+([-_.][A-Za-zd]+)*@([A-Za-zd]+[-.])+[A-Za-zd]{2,5}$/;
+            if (re.test(this.email)) {
+                this.email_error = false;
             } else {
-                this.mobile_error = true;
+                this.email_error = true;
             }
         },
         //检查密码
@@ -88,31 +88,32 @@ var vm = new Vue({
             }
         },
         //检查短信验证码
-        check_sms_code:function () {
-            if (!this.sms_code) {
-                this.sms_code_error = true;
+        check_email_code:function () {
+            if (!this.email_code) {
+                this.email_code_error = true;
             } else {
-                this.sms_code_error = false;
+                this.email_code_error = false;
             }
         },
         //发送短信验证码
-        send_sms_code:function () {
+        send_email_code:function () {
             if (this.sending_flag == true) {
                 return;
             }
             this.sending_flag = true;
 
             // 校验参数，保证输入框有数据填写
-            this.check_mobile();
+            this.check_email();
             this.check_image_code();
 
-            if (this.mobile_error == true || this.image_code_error == true) {
+            if (this.email_error == true || this.image_code_error == true) {
                 this.sending_flag = false;
                 return;
             }
 
             // 向后端接口发送请求，让后端发送短信验证码
-            var url = this.host + '/smscode/?mobile=' + this.mobile + '&image_code=' + this.image_code + '&uuid=' + this.uuid;
+            // 此处需修改view和参数
+            var url = this.host + '/smscode/?mobile=' + this.email + '&image_code=' + this.image_code + '&uuid=' + this.uuid;
             axios.get(url, {
                 responseType: 'json'
             })
@@ -127,13 +128,13 @@ var vm = new Vue({
                                 // 如果计时器到最后, 清除计时器对象
                                 clearInterval(t);
                                 // 将点击获取验证码的按钮展示的文本回复成原始文本
-                                this.sms_code_message = '获取短信验证码';
+                                this.email_code_message = '获取邮箱验证码';
                                 // 将点击按钮的onclick事件函数恢复回去
                                 this.sending_flag = false;
                             } else {
                                 num -= 1;
                                 // 展示倒计时信息
-                                this.sms_code_message = num + '秒';
+                                this.email_code_message = num + '秒';
                             }
                         }, 1000, 60)
                     } else {
@@ -141,7 +142,7 @@ var vm = new Vue({
                             //图片验证码错误
                             this.image_code_error = true;
                         }
-                        this.sms_code_error = true;
+                        this.email_code_error = true;
                         this.generate_image_code();
                         this.sending_flag = false;
                     }
@@ -153,13 +154,13 @@ var vm = new Vue({
         },
         //提交
         on_submit:function () {
-            this.check_mobile();
+            this.check_email();
             this.check_password();
             this.check_password2();
-            this.check_sms_code();
+            this.check_email_code();
 
-            if (this.mobile_error == true || this.password_error == true || this.password2_error == true
-                || this.image_code_error == true || this.sms_code_error == true) {
+            if (this.email_error == true || this.password_error == true || this.password2_error == true
+                || this.image_code_error == true || this.email_code_error == true) {
                 // 不满足注册条件：禁用表单
                 window.event.returnValue = false;
             }

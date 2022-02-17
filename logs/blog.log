@@ -306,3 +306,15 @@ INFO 2022-02-16 22:41:29,811 basehttp 154 "GET /imagecode/?uuid=70564f86-07c4-4a
 INFO 2022-02-16 22:41:33,975 basehttp 154 "GET /imagecode/?uuid=8f296756-b5a3-4d3e-89c3-79d86af1d693 HTTP/1.1" 200 3444
 INFO 2022-02-16 22:41:38,343 basehttp 154 "GET /imagecode/?uuid=c0166506-fcaa-4b76-afe1-43d179f9e0b2 HTTP/1.1" 200 3076
 INFO 2022-02-16 22:41:42,494 basehttp 154 "GET /imagecode/?uuid=7f69da92-8382-4dfc-b2ee-606944031a9a HTTP/1.1" 200 3361
+INFO 2022-02-17 23:11:18,103 autoreload 597 Watching for file changes with StatReloader
+WARNING 2022-02-17 23:11:20,735 log 228 Not Found: /
+WARNING 2022-02-17 23:11:20,737 basehttp 154 "GET / HTTP/1.1" 404 2267
+INFO 2022-02-17 23:11:30,403 basehttp 154 "GET /register HTTP/1.1" 301 0
+INFO 2022-02-17 23:11:30,449 basehttp 154 "GET /register/ HTTP/1.1" 200 5201
+INFO 2022-02-17 23:11:30,772 basehttp 154 "GET /imagecode/?uuid=422f863c-4e76-40d2-810c-efc8880c6120 HTTP/1.1" 200 2953
+WARNING 2022-02-17 23:15:13,656 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-17 23:15:13,727 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-17 23:16:06,014 basehttp 154 "GET /register/ HTTP/1.1" 200 5201
+INFO 2022-02-17 23:16:06,190 basehttp 154 "GET /imagecode/?uuid=03190227-5af8-43f3-ab01-7b8acbb42320 HTTP/1.1" 200 2868
+INFO 2022-02-17 23:18:43,110 basehttp 154 "GET /register/ HTTP/1.1" 200 5185
+INFO 2022-02-17 23:18:43,259 basehttp 154 "GET /imagecode/?uuid=a7751f5f-8581-43d6-a21b-b9d83e7e75a3 HTTP/1.1" 200 3193

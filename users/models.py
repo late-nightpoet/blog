@@ -4,8 +4,8 @@ from django.contrib.auth.models import AbstractUser
 
 # Create your models here.
 class User(AbstractUser):
-    mobile = models.CharField(max_length=20, unique=True, blank=True)
-
+    # mobile = models.CharField(max_length=20, unique=True, blank=True)
+    email = models.EmailField(max_length=30, unique=True, blank=True)
     # 头像
     avatar = models.ImageField(upload_to='avatar%Y%m%d', blank=True)
 
@@ -13,10 +13,10 @@ class User(AbstractUser):
     user_desc = models.TextField(max_length=500, blank=True)
 
     # 修改认证的字段
-    USERNAME_FIELD = 'mobile'
+    USERNAME_FIELD = 'email'
 
     # 创建超级管理员必须输入的字段
-    REQUIRED_FIELDS = ['username', 'email']
+    REQUIRED_FIELDS = ['username', 'mobile']
 
     # 内部类class Meta用于给model定义元数据
     class Meta:
@@ -25,4 +25,4 @@ class User(AbstractUser):
         verbose_name_plural = verbose_name
 
     def __str__(self):
-        return self.mobile
+        return self.email

@@ -1,6 +1,9 @@
 # -*- coding:utf-8 -*-
 
 from libs.yuntongxun.CCPRestSDK import REST
+import ssl
+ssl._create_default_https_context=ssl._create_unverified_context
+
 
 # 说明：主账号，登陆云通讯网站后，可在"控制台-应用"中看到开发者主账号ACCOUNT SID
 _accountSid = '8aaf07087e7b9872017f0724a47815ce'
