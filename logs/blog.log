@@ -1,0 +1,308 @@
+INFO 2022-02-08 00:00:50,010 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-08 00:00:52,824 basehttp 154 "GET / HTTP/1.1" 200 16348
+WARNING 2022-02-08 00:01:25,069 log 228 Not Found: /login.html
+WARNING 2022-02-08 00:01:25,070 basehttp 154 "GET /login.html HTTP/1.1" 404 1967
+WARNING 2022-02-08 00:01:32,343 log 228 Not Found: /login.html
+WARNING 2022-02-08 00:01:32,344 basehttp 154 "GET /login.html HTTP/1.1" 404 1967
+INFO 2022-02-16 14:14:26,553 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 14:17:18,494 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 14:19:01,009 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 14:19:45,941 autoreload 217 D:\PycharmProject\blog\blog\settings.py changed, reloading.
+INFO 2022-02-16 14:19:48,788 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 14:21:44,785 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 16:49:06,916 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 16:50:00,358 autoreload 217 D:\PycharmProject\blog\blog\settings.py changed, reloading.
+INFO 2022-02-16 16:50:02,834 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 17:42:11,935 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 17:54:48,174 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 17:54:52,541 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2022-02-16 17:54:52,845 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2022-02-16 17:54:53,053 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO 2022-02-16 17:54:53,061 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO 2022-02-16 17:54:53,131 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+WARNING 2022-02-16 17:54:53,231 log 228 Not Found: /favicon.ico
+WARNING 2022-02-16 17:54:53,231 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 1970
+INFO 2022-02-16 18:27:13,734 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 18:30:08,452 autoreload 597 Watching for file changes with StatReloader
+WARNING 2022-02-16 18:30:11,209 log 228 Not Found: /
+WARNING 2022-02-16 18:30:11,209 basehttp 154 "GET / HTTP/1.1" 404 2092
+INFO 2022-02-16 18:30:24,616 basehttp 154 "GET /register HTTP/1.1" 301 0
+ERROR 2022-02-16 18:30:24,784 log 228 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 470, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\users\views.py", line 13, in get
+    return render(request, 'register.html')
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\engine.py", line 143, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 156, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 194, in compile_nodelist
+    return parser.parse()
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 472, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 534, in invalid_block_tag
+    "or load this tag?" % (token.lineno, command)
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 11: 'static'. Did you forget to register or load this tag?
+ERROR 2022-02-16 18:30:24,792 basehttp 154 "GET /register/ HTTP/1.1" 500 151330
+WARNING 2022-02-16 18:30:43,893 log 228 Not Found: /user/register
+WARNING 2022-02-16 18:30:43,893 basehttp 154 "GET /user/register HTTP/1.1" 404 2149
+INFO 2022-02-16 18:31:00,217 basehttp 154 "GET /admin HTTP/1.1" 301 0
+INFO 2022-02-16 18:31:00,289 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2022-02-16 18:31:00,425 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1819
+INFO 2022-02-16 18:31:00,465 basehttp 154 "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+INFO 2022-02-16 18:31:00,465 basehttp 154 "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+INFO 2022-02-16 18:31:00,489 basehttp 154 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17944
+WARNING 2022-02-16 18:31:51,751 log 228 Not Found: /users/register
+WARNING 2022-02-16 18:31:51,751 basehttp 154 "GET /users/register HTTP/1.1" 404 2152
+WARNING 2022-02-16 18:31:59,817 log 228 Not Found: /users/register/
+WARNING 2022-02-16 18:31:59,817 basehttp 154 "GET /users/register/ HTTP/1.1" 404 2155
+INFO 2022-02-16 18:37:42,835 autoreload 597 Watching for file changes with StatReloader
+WARNING 2022-02-16 18:37:52,241 log 228 Not Found: /users/register/
+WARNING 2022-02-16 18:37:52,249 basehttp 154 "GET /users/register/ HTTP/1.1" 404 2155
+WARNING 2022-02-16 18:37:55,485 log 228 Not Found: /
+WARNING 2022-02-16 18:37:55,493 basehttp 154 "GET / HTTP/1.1" 404 2092
+INFO 2022-02-16 18:38:00,348 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2022-02-16 18:38:00,460 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1819
+ERROR 2022-02-16 18:38:02,823 log 228 Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\cursors.py", line 209, in execute
+    res = self._query(query)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\cursors.py", line 315, in _query
+    db.query(q)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.ProgrammingError: (1146, "Table 'blog.auth_user' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\sites.py", line 399, in login
+    return LoginView.as_view(**defaults)(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\decorators\debug.py", line 76, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\auth\views.py", line 61, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\edit.py", line 141, in post
+    if form.is_valid():
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\forms\forms.py", line 185, in is_valid
+    return self.is_bound and not self.errors
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\forms\forms.py", line 180, in errors
+    self.full_clean()
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\forms\forms.py", line 382, in full_clean
+    self._clean_form()
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\forms\forms.py", line 409, in _clean_form
+    cleaned_data = self.clean()
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\auth\forms.py", line 196, in clean
+    self.user_cache = authenticate(self.request, username=username, password=password)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\auth\__init__.py", line 73, in authenticate
+    user = backend.authenticate(request, **credentials)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\auth\backends.py", line 20, in authenticate
+    user = UserModel._default_manager.get_by_natural_key(username)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\auth\base_user.py", line 44, in get_by_natural_key
+    return self.get(**{self.model.USERNAME_FIELD: username})
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\query.py", line 402, in get
+    num = len(clone)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\query.py", line 256, in __len__
+    self._fetch_all()
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\query.py", line 1242, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\query.py", line 55, in __iter__
+    results = compiler.execute_sql(chunked_fetch=self.chunked_fetch, chunk_size=self.chunk_size)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\sql\compiler.py", line 1100, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\cursors.py", line 209, in execute
+    res = self._query(query)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\cursors.py", line 315, in _query
+    db.query(q)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+django.db.utils.ProgrammingError: (1146, "Table 'blog.auth_user' doesn't exist")
+ERROR 2022-02-16 18:38:02,847 basehttp 154 "POST /admin/login/?next=/admin/ HTTP/1.1" 500 255585
+INFO 2022-02-16 18:38:09,255 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1819
+INFO 2022-02-16 18:42:24,454 autoreload 597 Watching for file changes with StatReloader
+WARNING 2022-02-16 19:30:37,887 log 228 Not Found: /users/register
+WARNING 2022-02-16 19:30:37,911 basehttp 154 "GET /users/register HTTP/1.1" 404 2152
+INFO 2022-02-16 19:36:51,960 autoreload 597 Watching for file changes with StatReloader
+WARNING 2022-02-16 19:36:58,366 log 228 Not Found: /users/register
+WARNING 2022-02-16 19:36:58,367 basehttp 154 "GET /users/register HTTP/1.1" 404 2080
+WARNING 2022-02-16 19:44:44,697 log 228 Not Found: /
+WARNING 2022-02-16 19:44:44,701 basehttp 154 "GET / HTTP/1.1" 404 2020
+INFO 2022-02-16 19:45:15,306 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 19:47:06,502 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 20:20:16,612 autoreload 597 Watching for file changes with StatReloader
+WARNING 2022-02-16 20:20:20,688 log 228 Not Found: /
+WARNING 2022-02-16 20:20:20,689 basehttp 154 "GET / HTTP/1.1" 404 2020
+INFO 2022-02-16 20:21:02,133 autoreload 597 Watching for file changes with StatReloader
+WARNING 2022-02-16 20:21:02,455 log 228 Not Found: /
+WARNING 2022-02-16 20:21:02,456 basehttp 154 "GET / HTTP/1.1" 404 2092
+WARNING 2022-02-16 20:24:16,076 log 228 Not Found: /users/register
+WARNING 2022-02-16 20:24:16,077 basehttp 154 "GET /users/register HTTP/1.1" 404 2152
+INFO 2022-02-16 20:24:29,122 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2022-02-16 20:24:29,191 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1819
+INFO 2022-02-16 20:24:38,513 basehttp 154 "GET /register/ HTTP/1.1" 200 5210
+INFO 2022-02-16 20:24:38,579 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-16 20:24:38,580 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-16 20:24:38,602 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-16 20:24:38,659 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-16 20:24:38,660 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2022-02-16 20:24:38,682 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-16 20:24:38,693 basehttp 154 "GET /static/img/image_code.png HTTP/1.1" 200 3483
+WARNING 2022-02-16 20:24:48,692 log 228 Not Found: /users/register/
+WARNING 2022-02-16 20:24:48,694 basehttp 154 "GET /users/register/ HTTP/1.1" 404 2155
+INFO 2022-02-16 20:24:52,594 basehttp 154 "GET /register/ HTTP/1.1" 200 5210
+INFO 2022-02-16 20:35:57,716 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 21:08:05,221 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 21:11:50,213 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 21:11:54,582 basehttp 154 "GET /register/ HTTP/1.1" 200 5210
+INFO 2022-02-16 21:11:54,659 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-16 21:11:54,665 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-16 21:11:54,671 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-16 21:11:54,693 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-16 21:11:54,711 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-16 21:11:54,733 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 6407
+INFO 2022-02-16 21:11:54,736 basehttp 154 "GET /static/img/image_code.png HTTP/1.1" 200 3483
+INFO 2022-02-16 21:25:25,379 autoreload 217 D:\PycharmProject\blog\users\models.py changed, reloading.
+INFO 2022-02-16 21:25:27,473 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 22:27:16,707 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 22:27:28,821 basehttp 154 "GET /register/ HTTP/1.1" 200 5197
+ERROR 2022-02-16 22:27:29,034 log 228 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\users\views.py", line 26, in get
+    uuid = request.GET.get(uuid)
+UnboundLocalError: local variable 'uuid' referenced before assignment
+ERROR 2022-02-16 22:27:29,040 basehttp 154 "GET /imagecode/?uuid=46f12102-ae75-4c0d-b423-a73dd9eff716 HTTP/1.1" 500 83747
+ERROR 2022-02-16 22:27:31,459 log 228 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\users\views.py", line 26, in get
+    uuid = request.GET.get(uuid)
+UnboundLocalError: local variable 'uuid' referenced before assignment
+ERROR 2022-02-16 22:27:31,465 basehttp 154 "GET /imagecode/?uuid=179ab46f-c637-48a4-a01c-10a85d414464 HTTP/1.1" 500 83747
+ERROR 2022-02-16 22:27:32,859 log 228 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\users\views.py", line 26, in get
+    uuid = request.GET.get(uuid)
+UnboundLocalError: local variable 'uuid' referenced before assignment
+ERROR 2022-02-16 22:27:32,859 basehttp 154 "GET /imagecode/?uuid=0b848ba0-fa7f-4c95-bea8-145a30ede4b7 HTTP/1.1" 500 83747
+ERROR 2022-02-16 22:27:49,070 log 228 Internal Server Error: /imagecode/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\users\views.py", line 26, in get
+    uuid = request.GET.get(uuid)
+UnboundLocalError: local variable 'uuid' referenced before assignment
+ERROR 2022-02-16 22:27:49,070 basehttp 154 "GET /imagecode/?uuid=14cb5131-2a2e-4693-994d-92ff1527d089 HTTP/1.1" 500 83747
+INFO 2022-02-16 22:30:22,915 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 22:41:19,160 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-16 22:41:29,655 basehttp 154 "GET /register/ HTTP/1.1" 200 5197
+INFO 2022-02-16 22:41:29,811 basehttp 154 "GET /imagecode/?uuid=70564f86-07c4-4acc-a9a0-53f4d91b16ca HTTP/1.1" 200 2770
+INFO 2022-02-16 22:41:33,975 basehttp 154 "GET /imagecode/?uuid=8f296756-b5a3-4d3e-89c3-79d86af1d693 HTTP/1.1" 200 3444
+INFO 2022-02-16 22:41:38,343 basehttp 154 "GET /imagecode/?uuid=c0166506-fcaa-4b76-afe1-43d179f9e0b2 HTTP/1.1" 200 3076
+INFO 2022-02-16 22:41:42,494 basehttp 154 "GET /imagecode/?uuid=7f69da92-8382-4dfc-b2ee-606944031a9a HTTP/1.1" 200 3361
