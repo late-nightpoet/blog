@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'users.apps.UsersConfig'
+    'users.apps.UsersConfig',
+    'home.apps.HomeConfig'
 ]
 
 MIDDLEWARE = [
@@ -175,15 +176,15 @@ LOGGING = {
 # https://docs.djangoproject.com/en/2.2/topics/i18n/
 STATIC_URL = '/static'
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'zh-Hans'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'
 
 USE_I18N = True
 
 USE_L10N = True
 
-USE_TZ = True
+# USE_TZ = True
 
 
 # Static files (CSS, JavaScript, Images)
@@ -191,3 +192,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 AUTH_USER_MODEL = 'users.User'
+LOGIN_URL='/login/'
+# 设置图片上传路径
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
+MEDIA_URL = '/media/'

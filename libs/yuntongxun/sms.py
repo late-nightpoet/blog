@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 
 from libs.yuntongxun.CCPRestSDK import REST
-
+from django.conf import settings
 # 说明：主账号，登陆云通讯网站后，可在"控制台-应用"中看到开发者主账号ACCOUNT SID
 _accountSid = '8aaf07087e7b9872017f0724a47815ce'
 
@@ -12,7 +12,7 @@ _accountToken = '86f6eb6336c54ab5981c97aa5c36ac19'
 _appId = '8aaf07087e7b9872017f0724a59615d5'
 
 # 说明：请求地址，生产环境配置成app.cloopen.com
-_serverIP = 'sandboxapp.cloopen.com'
+_serverIP = 'app.cloopen.com'
 
 # 说明：请求端口 ，生产环境为8883
 _serverPort = "8883"
@@ -72,4 +72,4 @@ class CCP(object):
 if __name__ == '__main__':
     ccp = CCP()
     # 注意： 测试的短信模板编号为1
-    ccp.send_template_sms('15059360715', ['2413', 5], 1)
+    ccp.send_template_sms('150xxx0711', ['3333', 5], 1)

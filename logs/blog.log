@@ -306,3 +306,2048 @@ INFO 2022-02-16 22:41:29,811 basehttp 154 "GET /imagecode/?uuid=70564f86-07c4-4a
 INFO 2022-02-16 22:41:33,975 basehttp 154 "GET /imagecode/?uuid=8f296756-b5a3-4d3e-89c3-79d86af1d693 HTTP/1.1" 200 3444
 INFO 2022-02-16 22:41:38,343 basehttp 154 "GET /imagecode/?uuid=c0166506-fcaa-4b76-afe1-43d179f9e0b2 HTTP/1.1" 200 3076
 INFO 2022-02-16 22:41:42,494 basehttp 154 "GET /imagecode/?uuid=7f69da92-8382-4dfc-b2ee-606944031a9a HTTP/1.1" 200 3361
+INFO 2022-02-17 23:11:18,103 autoreload 597 Watching for file changes with StatReloader
+WARNING 2022-02-17 23:11:20,735 log 228 Not Found: /
+WARNING 2022-02-17 23:11:20,737 basehttp 154 "GET / HTTP/1.1" 404 2267
+INFO 2022-02-17 23:11:30,403 basehttp 154 "GET /register HTTP/1.1" 301 0
+INFO 2022-02-17 23:11:30,449 basehttp 154 "GET /register/ HTTP/1.1" 200 5201
+INFO 2022-02-17 23:11:30,772 basehttp 154 "GET /imagecode/?uuid=422f863c-4e76-40d2-810c-efc8880c6120 HTTP/1.1" 200 2953
+WARNING 2022-02-17 23:15:13,656 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-17 23:15:13,727 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-17 23:16:06,014 basehttp 154 "GET /register/ HTTP/1.1" 200 5201
+INFO 2022-02-17 23:16:06,190 basehttp 154 "GET /imagecode/?uuid=03190227-5af8-43f3-ab01-7b8acbb42320 HTTP/1.1" 200 2868
+INFO 2022-02-17 23:18:43,110 basehttp 154 "GET /register/ HTTP/1.1" 200 5185
+INFO 2022-02-17 23:18:43,259 basehttp 154 "GET /imagecode/?uuid=a7751f5f-8581-43d6-a21b-b9d83e7e75a3 HTTP/1.1" 200 3193
+INFO 2022-02-18 23:36:23,458 autoreload 597 Watching for file changes with StatReloader
+WARNING 2022-02-18 23:36:30,900 log 228 Not Found: /
+WARNING 2022-02-18 23:36:30,901 basehttp 154 "GET / HTTP/1.1" 404 2267
+INFO 2022-02-18 23:36:37,420 basehttp 154 "GET /register HTTP/1.1" 301 0
+INFO 2022-02-18 23:36:37,493 basehttp 154 "GET /register/ HTTP/1.1" 200 5197
+INFO 2022-02-18 23:36:37,976 basehttp 154 "GET /imagecode/?uuid=04a440f7-d6b6-4006-9c84-ffdf03409737 HTTP/1.1" 200 3023
+INFO 2022-02-18 23:36:40,060 basehttp 154 "GET /imagecode/?uuid=dda50b12-07b9-4af7-ae03-0f60297e79ae HTTP/1.1" 200 3019
+INFO 2022-02-18 23:43:32,475 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-18 23:43:35,103 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-18 23:44:25,560 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-18 23:44:28,303 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-18 23:46:31,693 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-18 23:46:34,263 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-18 23:46:50,887 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-18 23:46:52,974 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-18 23:49:44,979 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-18 23:49:47,389 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-18 23:50:24,093 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-18 23:50:26,285 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-18 23:50:41,694 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-18 23:50:43,985 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-18 23:50:48,777 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-18 23:50:51,039 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-18 23:53:00,203 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-18 23:53:03,797 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-18 23:57:11,967 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-18 23:57:17,078 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-18 23:58:43,612 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-18 23:58:46,182 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-18 23:58:52,356 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-18 23:58:58,522 basehttp 154 "GET /register/ HTTP/1.1" 200 5197
+INFO 2022-02-18 23:58:58,700 basehttp 154 "GET /imagecode/?uuid=ecb1cdab-759a-4488-a8fb-ed0bf55bb086 HTTP/1.1" 200 3080
+WARNING 2022-02-18 23:59:14,849 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-18 23:59:14,933 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-18 23:59:46,302 log 228 Not Found: /smscode/
+WARNING 2022-02-18 23:59:46,303 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=TSJA&uuid=ecb1cdab-759a-4488-a8fb-ed0bf55bb086 HTTP/1.1" 404 2394
+INFO 2022-02-19 00:01:49,296 autoreload 217 D:\PycharmProject\blog\users\urls.py changed, reloading.
+INFO 2022-02-19 00:01:52,231 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-19 00:02:17,045 basehttp 154 "GET /register/ HTTP/1.1" 200 5197
+INFO 2022-02-19 00:02:17,195 basehttp 154 "GET /imagecode/?uuid=b1b9587b-61a3-4f11-ad8c-3ad5fb2f12d2 HTTP/1.1" 200 3365
+WARNING 2022-02-19 00:02:41,138 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 00:02:41,182 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+ERROR 2022-02-19 00:04:16,536 log 228 Internal Server Error: /smscode/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\users\views.py", line 59, in get
+    image_code_server = redis_conn.get('img:%' % uuid)
+ValueError: incomplete format
+ERROR 2022-02-19 00:04:16,542 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=ZXMQ&uuid=b1b9587b-61a3-4f11-ad8c-3ad5fb2f12d2 HTTP/1.1" 500 84898
+INFO 2022-02-19 00:06:24,186 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-19 00:06:26,227 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-19 00:08:07,305 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-19 00:08:09,448 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-19 00:08:16,750 basehttp 154 "GET /register/ HTTP/1.1" 200 5197
+WARNING 2022-02-19 00:08:16,993 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 00:08:17,024 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 00:08:17,135 basehttp 154 "GET /imagecode/?uuid=06e668ab-ab18-4117-b8f2-e3b23b9faaf7 HTTP/1.1" 200 3058
+INFO 2022-02-19 00:10:02,451 views 76 702793
+INFO 2022-02-19 00:10:03,419 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=AKEH&uuid=06e668ab-ab18-4117-b8f2-e3b23b9faaf7 HTTP/1.1" 200 63
+INFO 2022-02-19 20:33:20,321 autoreload 597 Watching for file changes with StatReloader
+WARNING 2022-02-19 20:33:23,239 log 228 Not Found: /
+WARNING 2022-02-19 20:33:23,241 basehttp 154 "GET / HTTP/1.1" 404 2438
+INFO 2022-02-19 20:33:30,093 basehttp 154 "GET /register/ HTTP/1.1" 200 5197
+INFO 2022-02-19 20:33:30,874 basehttp 154 "GET /imagecode/?uuid=5100aed1-ed14-4a96-8bc4-476b0f8412f5 HTTP/1.1" 200 3533
+INFO 2022-02-19 20:34:16,785 views 123 757410
+INFO 2022-02-19 20:34:18,028 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=ZR4G&uuid=5100aed1-ed14-4a96-8bc4-476b0f8412f5 HTTP/1.1" 200 63
+INFO 2022-02-19 20:52:44,165 basehttp 154 "GET /imagecode/?uuid=9d0ddca7-5638-4ad2-8a6c-9db2d87a5069 HTTP/1.1" 200 3008
+INFO 2022-02-19 20:52:48,053 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=ZR4G&uuid=9d0ddca7-5638-4ad2-8a6c-9db2d87a5069 HTTP/1.1" 200 84
+INFO 2022-02-19 20:52:48,077 basehttp 154 "GET /imagecode/?uuid=5399e497-c17d-468b-8982-b2b9ef439477 HTTP/1.1" 200 3289
+INFO 2022-02-19 20:53:07,601 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=ZR4G&uuid=5399e497-c17d-468b-8982-b2b9ef439477 HTTP/1.1" 200 84
+INFO 2022-02-19 20:53:07,621 basehttp 154 "GET /imagecode/?uuid=7e288caf-17db-45e0-a7d4-05739b968131 HTTP/1.1" 200 3391
+WARNING 2022-02-19 20:53:59,759 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 20:53:59,812 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 21:38:34,984 basehttp 154 "GET /register/ HTTP/1.1" 200 5339
+INFO 2022-02-19 21:38:35,302 basehttp 154 "GET /imagecode/?uuid=3a00d4a1-45b2-4723-bd38-49c4f7d1bddb HTTP/1.1" 200 3214
+WARNING 2022-02-19 21:38:35,589 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 21:38:35,665 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 21:39:38,670 views 123 285138
+INFO 2022-02-19 21:39:39,001 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=YRDX&uuid=3a00d4a1-45b2-4723-bd38-49c4f7d1bddb HTTP/1.1" 200 63
+INFO 2022-02-19 22:10:42,279 basehttp 154 "GET /register/ HTTP/1.1" 200 5218
+INFO 2022-02-19 22:10:42,465 basehttp 154 "GET /imagecode/?uuid=6d9b6445-7435-4501-b9c0-5371f4d6825a HTTP/1.1" 200 3135
+WARNING 2022-02-19 22:10:42,481 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 22:10:42,535 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 22:11:09,854 views 123 982273
+INFO 2022-02-19 22:11:10,217 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=3q8r&uuid=6d9b6445-7435-4501-b9c0-5371f4d6825a HTTP/1.1" 200 63
+INFO 2022-02-19 22:12:28,950 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-19 22:12:31,353 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-19 22:25:45,102 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-19 22:25:51,653 basehttp 154 "GET /register/ HTTP/1.1" 200 5198
+WARNING 2022-02-19 22:25:51,817 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 22:25:51,879 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 22:25:51,973 basehttp 154 "GET /imagecode/?uuid=3eb4b778-e1c2-4c26-8108-09c36868cefc HTTP/1.1" 200 3088
+INFO 2022-02-19 22:26:15,257 views 123 442192
+INFO 2022-02-19 22:26:15,259 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=SVUG&uuid=3eb4b778-e1c2-4c26-8108-09c36868cefc HTTP/1.1" 200 63
+WARNING 2022-02-19 22:27:21,497 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 22:27:21,556 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 22:32:01,686 basehttp 154 "GET /register/ HTTP/1.1" 200 5198
+INFO 2022-02-19 22:32:01,963 basehttp 154 "GET /imagecode/?uuid=53f6b6f6-7dcc-4db6-b579-cb806289ab11 HTTP/1.1" 200 3012
+WARNING 2022-02-19 22:32:02,042 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 22:32:02,077 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 22:34:17,542 basehttp 154 "GET /register/ HTTP/1.1" 200 5198
+INFO 2022-02-19 22:34:17,745 basehttp 154 "GET /imagecode/?uuid=0bc5efb8-3f43-4de0-9549-3ada9904e003 HTTP/1.1" 200 3054
+WARNING 2022-02-19 22:34:17,844 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 22:34:17,874 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 22:35:36,519 basehttp 154 "GET /register/ HTTP/1.1" 200 5198
+INFO 2022-02-19 22:35:36,607 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-19 22:35:36,670 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-19 22:35:36,680 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-19 22:35:36,724 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-19 22:35:36,729 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-19 22:35:36,737 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 7046
+INFO 2022-02-19 22:35:36,994 basehttp 154 "GET /imagecode/?uuid=b04aec05-0295-41d4-865e-5e9824dee1c5 HTTP/1.1" 200 2965
+WARNING 2022-02-19 22:35:37,039 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 22:35:37,071 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 22:36:20,187 basehttp 154 "GET /imagecode/?uuid=8b3581c4-24b2-4a66-a6a1-3e843647f298 HTTP/1.1" 200 3105
+INFO 2022-02-19 22:36:30,865 views 123 532923
+INFO 2022-02-19 22:36:30,866 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=BYR9&uuid=8b3581c4-24b2-4a66-a6a1-3e843647f298 HTTP/1.1" 200 63
+WARNING 2022-02-19 22:37:03,007 log 228 Forbidden (CSRF cookie not set.): /register/
+WARNING 2022-02-19 22:37:03,009 basehttp 154 "POST /register/ HTTP/1.1" 403 2868
+INFO 2022-02-19 23:00:28,424 basehttp 154 "GET /register/ HTTP/1.1" 200 5339
+INFO 2022-02-19 23:00:28,496 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-19 23:00:28,501 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-19 23:00:28,503 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-19 23:00:28,503 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-19 23:00:28,514 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-19 23:00:28,530 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 7046
+INFO 2022-02-19 23:00:28,749 basehttp 154 "GET /imagecode/?uuid=17c2dce2-5695-40bd-a202-9dfe260a4509 HTTP/1.1" 200 3220
+WARNING 2022-02-19 23:00:28,803 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 23:00:28,839 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 23:00:57,932 views 123 994554
+INFO 2022-02-19 23:00:57,934 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=kaul&uuid=17c2dce2-5695-40bd-a202-9dfe260a4509 HTTP/1.1" 200 63
+WARNING 2022-02-19 23:01:19,525 log 228 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2022-02-19 23:01:19,526 basehttp 154 "POST /register/ HTTP/1.1" 403 2513
+WARNING 2022-02-19 23:03:01,665 log 228 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2022-02-19 23:03:01,666 basehttp 154 "POST /register/ HTTP/1.1" 403 2513
+INFO 2022-02-19 23:09:57,984 basehttp 154 "GET /register/ HTTP/1.1" 200 5339
+INFO 2022-02-19 23:09:58,038 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-19 23:09:58,048 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-19 23:09:58,092 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-19 23:09:58,138 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-19 23:09:58,165 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-19 23:09:58,198 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 7124
+WARNING 2022-02-19 23:09:58,451 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 23:09:58,455 basehttp 154 "GET /imagecode/?uuid=9befc4ba-d0be-4728-92e3-59d08b646922 HTTP/1.1" 200 3049
+INFO 2022-02-19 23:09:58,483 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 23:10:24,874 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=bjdm&uuid=9befc4ba-d0be-4728-92e3-59d08b646922 HTTP/1.1" 200 84
+INFO 2022-02-19 23:10:24,906 basehttp 154 "GET /imagecode/?uuid=4ba32215-dc5e-4ee1-893e-d702831aa4a3 HTTP/1.1" 200 3468
+INFO 2022-02-19 23:10:44,368 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=fb6n&uuid=4ba32215-dc5e-4ee1-893e-d702831aa4a3 HTTP/1.1" 200 84
+INFO 2022-02-19 23:10:44,391 basehttp 154 "GET /imagecode/?uuid=4610581e-b6f1-403f-9da6-8b256b55c295 HTTP/1.1" 200 3301
+INFO 2022-02-19 23:11:38,368 views 123 794345
+INFO 2022-02-19 23:11:38,370 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=xfjq&uuid=4610581e-b6f1-403f-9da6-8b256b55c295 HTTP/1.1" 200 63
+INFO 2022-02-19 23:19:50,192 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-19 23:19:52,953 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-19 23:20:57,729 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-19 23:21:00,371 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-19 23:21:07,812 basehttp 154 "GET /register/ HTTP/1.1" 200 5339
+INFO 2022-02-19 23:21:07,879 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-19 23:21:07,885 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-19 23:21:07,927 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-19 23:21:07,940 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-19 23:21:07,971 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-19 23:21:08,033 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 7048
+INFO 2022-02-19 23:21:08,301 basehttp 154 "GET /imagecode/?uuid=968cc39b-f9c2-4972-a4e4-abd74d9e06fd HTTP/1.1" 200 3146
+WARNING 2022-02-19 23:21:08,443 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 23:21:08,477 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 23:21:30,609 views 125 317703
+INFO 2022-02-19 23:21:30,610 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=uwma&uuid=968cc39b-f9c2-4972-a4e4-abd74d9e06fd HTTP/1.1" 200 63
+WARNING 2022-02-19 23:22:51,653 log 228 Forbidden (CSRF token missing or incorrect.): /register/
+WARNING 2022-02-19 23:22:51,654 basehttp 154 "POST /register/ HTTP/1.1" 403 2513
+INFO 2022-02-19 23:33:34,297 basehttp 154 "GET /register/ HTTP/1.1" 200 5339
+INFO 2022-02-19 23:33:34,357 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-19 23:33:34,371 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-19 23:33:34,384 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 7118
+INFO 2022-02-19 23:33:34,403 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-19 23:33:34,411 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-19 23:33:34,420 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-19 23:33:34,565 basehttp 154 "GET /imagecode/?uuid=16d64bc2-3301-4c04-8aa6-02eac936f4dc HTTP/1.1" 200 3415
+WARNING 2022-02-19 23:33:34,654 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 23:33:34,707 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 23:34:05,085 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=kb7c&uuid=16d64bc2-3301-4c04-8aa6-02eac936f4dc HTTP/1.1" 200 84
+INFO 2022-02-19 23:34:05,110 basehttp 154 "GET /imagecode/?uuid=d9d2528d-e889-496f-8519-7ee449a7922c HTTP/1.1" 200 3397
+INFO 2022-02-19 23:34:12,807 views 125 915904
+INFO 2022-02-19 23:34:12,809 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=zeag&uuid=d9d2528d-e889-496f-8519-7ee449a7922c HTTP/1.1" 200 63
+INFO 2022-02-19 23:41:37,947 basehttp 154 "GET /register/ HTTP/1.1" 200 5358
+INFO 2022-02-19 23:41:38,031 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-19 23:41:38,039 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-19 23:41:38,049 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-19 23:41:38,081 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-19 23:41:38,100 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-19 23:41:38,114 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 7122
+INFO 2022-02-19 23:41:38,291 basehttp 154 "GET /imagecode/?uuid=f4a5b546-ca2c-44e4-a8dc-c8e34b270892 HTTP/1.1" 200 3015
+WARNING 2022-02-19 23:41:38,524 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 23:41:38,552 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 23:42:16,122 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=08vl&uuid=f4a5b546-ca2c-44e4-a8dc-c8e34b270892 HTTP/1.1" 200 84
+INFO 2022-02-19 23:42:16,173 basehttp 154 "GET /imagecode/?uuid=1aa51d66-e92e-466c-9039-7a3f213bdc85 HTTP/1.1" 200 3027
+INFO 2022-02-19 23:42:29,808 views 125 018312
+INFO 2022-02-19 23:42:29,810 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=vyus&uuid=1aa51d66-e92e-466c-9039-7a3f213bdc85 HTTP/1.1" 200 63
+INFO 2022-02-19 23:45:11,691 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-19 23:45:14,528 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-19 23:46:29,260 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-19 23:46:31,873 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-19 23:49:40,525 basehttp 154 "GET /register/ HTTP/1.1" 200 5340
+INFO 2022-02-19 23:49:40,618 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-19 23:49:40,624 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-19 23:49:40,626 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-19 23:49:40,672 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-19 23:49:40,683 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-19 23:49:40,684 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 7122
+WARNING 2022-02-19 23:49:41,013 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 23:49:41,072 basehttp 154 "GET /imagecode/?uuid=5297df84-6477-4d62-84e7-42e593b6116a HTTP/1.1" 200 3562
+INFO 2022-02-19 23:49:41,099 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 23:50:01,054 views 125 635365
+INFO 2022-02-19 23:50:01,056 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=cwtr&uuid=5297df84-6477-4d62-84e7-42e593b6116a HTTP/1.1" 200 63
+ERROR 2022-02-19 23:50:15,254 log 228 Internal Server Error: /register
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\utils\deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\middleware\common.py", line 53, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\middleware\common.py", line 93, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/register/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+ERROR 2022-02-19 23:50:15,260 basehttp 154 "POST /register HTTP/1.1" 500 73583
+INFO 2022-02-19 23:58:52,359 basehttp 154 "GET /register/ HTTP/1.1" 200 5341
+INFO 2022-02-19 23:58:52,401 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2022-02-19 23:58:52,521 basehttp 154 "GET /imagecode/?uuid=c6e72f21-a9be-4afb-be49-3c5cdd1ca805 HTTP/1.1" 200 3391
+WARNING 2022-02-19 23:58:59,438 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-19 23:58:59,484 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-19 23:59:24,706 views 125 091571
+INFO 2022-02-19 23:59:24,708 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=kmfv&uuid=c6e72f21-a9be-4afb-be49-3c5cdd1ca805 HTTP/1.1" 200 63
+WARNING 2022-02-19 23:59:40,051 log 228 Not Found: /register/register/
+WARNING 2022-02-19 23:59:40,052 basehttp 154 "POST /register/register/ HTTP/1.1" 404 2511
+INFO 2022-02-20 00:01:24,038 basehttp 154 "GET /register/ HTTP/1.1" 200 5322
+INFO 2022-02-20 00:01:24,096 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-20 00:01:24,101 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-20 00:01:24,108 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-20 00:01:24,109 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-20 00:01:24,133 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-20 00:01:24,144 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 7122
+WARNING 2022-02-20 00:01:24,407 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 00:01:24,416 basehttp 154 "GET /imagecode/?uuid=423e7f16-00db-4600-ac3e-2da4c65b9654 HTTP/1.1" 200 2968
+INFO 2022-02-20 00:01:24,449 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 00:01:55,095 views 125 103066
+INFO 2022-02-20 00:01:55,097 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=zt7u&uuid=423e7f16-00db-4600-ac3e-2da4c65b9654 HTTP/1.1" 200 63
+WARNING 2022-02-20 00:02:07,706 log 228 Bad Request: /register/
+WARNING 2022-02-20 00:02:07,707 basehttp 154 "POST /register/ HTTP/1.1" 400 25
+INFO 2022-02-20 00:03:40,582 basehttp 154 "GET /register/ HTTP/1.1" 200 5322
+INFO 2022-02-20 00:03:40,650 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-20 00:03:40,651 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-20 00:03:40,653 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-20 00:03:40,660 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-20 00:03:40,666 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-20 00:03:40,667 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 7122
+WARNING 2022-02-20 00:03:41,051 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 00:03:41,054 basehttp 154 "GET /imagecode/?uuid=d0023873-8cf9-4d15-9d68-c877e6768d6a HTTP/1.1" 200 2790
+INFO 2022-02-20 00:03:41,132 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 00:03:56,238 basehttp 154 "GET /imagecode/?uuid=1ae396b4-326c-48d9-8f84-862407bac384 HTTP/1.1" 200 3341
+INFO 2022-02-20 00:04:45,155 basehttp 154 "GET /register/ HTTP/1.1" 200 5322
+INFO 2022-02-20 00:04:45,273 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-20 00:04:45,277 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-20 00:04:45,279 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-20 00:04:45,282 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-20 00:04:45,287 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-20 00:04:45,315 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 7122
+WARNING 2022-02-20 00:04:45,435 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 00:04:45,507 basehttp 154 "GET /imagecode/?uuid=a6917f51-6efe-44ee-b7fe-b06b1eda4417 HTTP/1.1" 200 3229
+INFO 2022-02-20 00:04:45,537 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 00:05:01,335 basehttp 154 "GET /imagecode/?uuid=813ba0a8-16ed-4523-8538-16f67fd5077b HTTP/1.1" 200 3174
+INFO 2022-02-20 00:05:10,998 views 125 775084
+INFO 2022-02-20 00:05:11,000 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=i6ar&uuid=813ba0a8-16ed-4523-8538-16f67fd5077b HTTP/1.1" 200 63
+INFO 2022-02-20 00:05:26,483 basehttp 154 "POST /register/ HTTP/1.1" 200 33
+INFO 2022-02-20 15:33:25,295 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 15:34:17,820 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 15:35:32,176 autoreload 217 D:\PycharmProject\blog\blog\urls.py changed, reloading.
+INFO 2022-02-20 15:35:34,883 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 15:35:38,580 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2022-02-20 15:35:38,718 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2022-02-20 15:35:38,719 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2022-02-20 15:35:38,763 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2022-02-20 15:35:38,910 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2022-02-20 15:35:38,971 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2022-02-20 15:35:39,052 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2022-02-20 15:35:39,087 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+INFO 2022-02-20 15:41:26,803 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 15:41:29,696 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 15:50:43,104 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 15:50:45,629 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 15:50:52,129 basehttp 154 "GET /register/ HTTP/1.1" 200 5312
+INFO 2022-02-20 15:50:52,279 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2022-02-20 15:50:54,972 basehttp 154 "GET /imagecode/?uuid=b3dbf5aa-1e7f-4c09-a1bd-8628d070ec1a HTTP/1.1" 200 3357
+INFO 2022-02-20 15:51:40,665 views 130 191629
+INFO 2022-02-20 15:51:40,667 basehttp 154 "GET /smscode/?mobile=17305697983&image_code=sj3v&uuid=b3dbf5aa-1e7f-4c09-a1bd-8628d070ec1a HTTP/1.1" 200 63
+WARNING 2022-02-20 15:51:52,682 log 228 Bad Request: /register/
+WARNING 2022-02-20 15:51:52,684 basehttp 154 "POST /register/ HTTP/1.1" 400 12
+INFO 2022-02-20 15:53:25,889 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 15:55:39,688 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 15:55:43,880 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2022-02-20 15:55:52,053 basehttp 154 "GET /register/ HTTP/1.1" 200 5312
+INFO 2022-02-20 15:55:53,340 basehttp 154 "GET /imagecode/?uuid=08722f5c-2b2b-42ec-8889-5a82436ec2b6 HTTP/1.1" 200 3087
+WARNING 2022-02-20 15:56:16,308 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 15:56:16,344 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 15:56:34,012 views 130 518419
+INFO 2022-02-20 15:56:34,016 basehttp 154 "GET /smscode/?mobile=17305697983&image_code=vyuh&uuid=08722f5c-2b2b-42ec-8889-5a82436ec2b6 HTTP/1.1" 200 63
+WARNING 2022-02-20 16:14:14,552 log 228 Bad Request: /register/
+WARNING 2022-02-20 16:14:25,855 basehttp 154 "POST /register/ HTTP/1.1" 400 12
+INFO 2022-02-20 16:18:21,977 basehttp 154 "GET /register/ HTTP/1.1" 200 5312
+WARNING 2022-02-20 16:18:44,055 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 16:18:44,154 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 16:19:35,853 basehttp 154 "GET /imagecode/?uuid=523d4a26-a6a9-4d3c-bbf4-10b7b75af472 HTTP/1.1" 200 3369
+INFO 2022-02-20 16:21:19,458 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 16:21:23,279 basehttp 154 "GET /register/ HTTP/1.1" 200 5312
+INFO 2022-02-20 16:21:23,481 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-20 16:21:23,492 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-20 16:21:23,496 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-20 16:21:23,572 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-20 16:21:23,598 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-20 16:21:23,633 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 7122
+WARNING 2022-02-20 16:21:23,751 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 16:21:23,840 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 16:21:24,163 basehttp 154 "GET /imagecode/?uuid=0378b43c-bb40-4df0-90b7-50d9048d301a HTTP/1.1" 200 3450
+INFO 2022-02-20 16:21:51,026 views 130 300559
+INFO 2022-02-20 16:21:51,030 basehttp 154 "GET /smscode/?mobile=17305697982&image_code=DXMS&uuid=0378b43c-bb40-4df0-90b7-50d9048d301a HTTP/1.1" 200 63
+WARNING 2022-02-20 16:36:14,124 log 228 Bad Request: /register/
+WARNING 2022-02-20 16:36:32,559 basehttp 154 "POST /register/ HTTP/1.1" 400 12
+INFO 2022-02-20 16:49:26,329 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 16:49:30,510 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 16:52:52,223 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 16:52:55,520 basehttp 154 "GET /register/ HTTP/1.1" 200 5312
+INFO 2022-02-20 16:52:55,584 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-20 16:52:55,610 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-20 16:52:55,639 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-20 16:52:55,670 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 7122
+INFO 2022-02-20 16:52:55,672 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-20 16:52:55,673 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+WARNING 2022-02-20 16:52:55,814 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 16:52:55,911 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 16:52:56,102 basehttp 154 "GET /imagecode/?uuid=69c00e73-dd20-4b62-85ba-fa3810e9b759 HTTP/1.1" 200 3328
+INFO 2022-02-20 16:53:32,903 basehttp 154 "GET /smscode/?mobile=15059360711&image_code=7cw2&uuid=69c00e73-dd20-4b62-85ba-fa3810e9b759 HTTP/1.1" 200 84
+INFO 2022-02-20 16:53:32,941 basehttp 154 "GET /imagecode/?uuid=f9243f1f-53e4-4477-a821-3b6303e1d39f HTTP/1.1" 200 3264
+INFO 2022-02-20 16:53:46,108 views 131 820435
+INFO 2022-02-20 16:53:46,111 basehttp 154 "GET /smscode/?mobile=15059360711&image_code=le7h&uuid=f9243f1f-53e4-4477-a821-3b6303e1d39f HTTP/1.1" 200 63
+ERROR 2022-02-20 16:58:04,705 log 228 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\cursors.py", line 209, in execute
+    res = self._query(query)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\cursors.py", line 315, in _query
+    db.query(q)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.IntegrityError: (1062, "Duplicate entry '' for key 'tb_user_email_f82be294_uniq'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\users\views.py", line 65, in post
+    raise e
+  File "D:\PycharmProject\blog\users\views.py", line 63, in post
+    user = User.objects.create_user(username=mobile, mobile=mobile, password=password)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\auth\models.py", line 151, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\auth\models.py", line 145, in _create_user
+    user.save(using=self._db)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\auth\base_user.py", line 66, in save
+    super().save(*args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\base.py", line 741, in save
+    force_update=force_update, update_fields=update_fields)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\base.py", line 779, in save_base
+    force_update, using, update_fields,
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\base.py", line 870, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\base.py", line 908, in _do_insert
+    using=using, raw=raw)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\query.py", line 1186, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\sql\compiler.py", line 1335, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\cursors.py", line 209, in execute
+    res = self._query(query)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\cursors.py", line 315, in _query
+    db.query(q)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'tb_user_email_f82be294_uniq'")
+ERROR 2022-02-20 16:58:04,732 basehttp 154 "POST /register/ HTTP/1.1" 500 221895
+INFO 2022-02-20 17:06:52,563 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 17:06:55,720 basehttp 154 "GET /register/ HTTP/1.1" 200 5312
+INFO 2022-02-20 17:06:55,973 basehttp 154 "GET /imagecode/?uuid=0f0abb2e-1884-4680-9b2a-0a2afdfbd838 HTTP/1.1" 200 3078
+WARNING 2022-02-20 17:07:15,132 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 17:07:15,166 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 17:07:25,852 basehttp 154 "GET /imagecode/?uuid=f28e5705-0fb2-4bf1-9b1d-f6ca95d64b72 HTTP/1.1" 200 3104
+INFO 2022-02-20 17:07:34,557 views 131 070534
+INFO 2022-02-20 17:07:34,561 basehttp 154 "GET /smscode/?mobile=15059360711&image_code=9ozs&uuid=f28e5705-0fb2-4bf1-9b1d-f6ca95d64b72 HTTP/1.1" 200 63
+ERROR 2022-02-20 17:13:24,494 log 228 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\cursors.py", line 209, in execute
+    res = self._query(query)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\cursors.py", line 315, in _query
+    db.query(q)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+MySQLdb._exceptions.IntegrityError: (1062, "Duplicate entry '' for key 'tb_user_email_f82be294_uniq'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\users\views.py", line 65, in post
+    raise e
+  File "D:\PycharmProject\blog\users\views.py", line 63, in post
+    user = User.objects.create_user(username=mobile, mobile=mobile, password=password)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\auth\models.py", line 151, in create_user
+    return self._create_user(username, email, password, **extra_fields)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\auth\models.py", line 145, in _create_user
+    user.save(using=self._db)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\auth\base_user.py", line 66, in save
+    super().save(*args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\base.py", line 741, in save
+    force_update=force_update, update_fields=update_fields)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\base.py", line 779, in save_base
+    force_update, using, update_fields,
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\base.py", line 870, in _save_table
+    result = self._do_insert(cls._base_manager, using, fields, update_pk, raw)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\base.py", line 908, in _do_insert
+    using=using, raw=raw)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\query.py", line 1186, in _insert
+    return query.get_compiler(using=using).execute_sql(return_id)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\sql\compiler.py", line 1335, in execute_sql
+    cursor.execute(sql, params)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\utils.py", line 89, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\utils.py", line 84, in _execute
+    return self.cursor.execute(sql, params)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\backends\mysql\base.py", line 71, in execute
+    return self.cursor.execute(query, args)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\cursors.py", line 209, in execute
+    res = self._query(query)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\cursors.py", line 315, in _query
+    db.query(q)
+  File "D:\anaconda3\envs\blog\lib\site-packages\MySQLdb\connections.py", line 239, in query
+    _mysql.connection.query(self, query)
+django.db.utils.IntegrityError: (1062, "Duplicate entry '' for key 'tb_user_email_f82be294_uniq'")
+ERROR 2022-02-20 17:15:47,411 basehttp 154 "POST /register/ HTTP/1.1" 500 221897
+INFO 2022-02-20 17:18:13,897 autoreload 217 D:\PycharmProject\blog\users\models.py changed, reloading.
+INFO 2022-02-20 17:49:09,165 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 17:49:19,845 basehttp 154 "GET /register/ HTTP/1.1" 200 5312
+INFO 2022-02-20 17:49:20,047 basehttp 154 "GET /imagecode/?uuid=093a55b6-24a2-4ad2-b17c-280500036ed0 HTTP/1.1" 200 3060
+WARNING 2022-02-20 17:49:36,377 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 17:49:36,418 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 17:49:49,565 views 131 922757
+INFO 2022-02-20 17:49:49,567 basehttp 154 "GET /smscode/?mobile=15059360711&image_code=MFBW&uuid=093a55b6-24a2-4ad2-b17c-280500036ed0 HTTP/1.1" 200 63
+INFO 2022-02-20 17:50:03,099 basehttp 154 "POST /register/ HTTP/1.1" 302 0
+INFO 2022-02-20 17:50:03,110 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2022-02-20 17:50:03,159 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-20 17:50:03,164 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2022-02-20 17:50:03,230 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2022-02-20 17:50:03,260 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2022-02-20 17:50:03,310 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-20 17:50:03,317 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2022-02-20 17:50:03,329 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-20 17:50:03,372 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-20 17:50:03,387 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-20 17:50:03,419 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2022-02-20 17:50:03,437 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2022-02-20 17:50:03,468 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+WARNING 2022-02-20 17:50:03,753 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 17:50:03,866 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-20 17:56:34,902 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 17:56:35,033 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 18:06:50,858 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2022-02-20 18:06:50,928 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2022-02-20 18:06:50,938 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-20 18:06:50,950 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2022-02-20 18:06:50,961 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2022-02-20 18:06:50,987 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2022-02-20 18:06:50,993 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-20 18:06:51,011 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-20 18:06:51,023 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-20 18:06:51,032 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-20 18:06:51,044 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2022-02-20 18:06:51,051 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2022-02-20 18:06:51,067 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+WARNING 2022-02-20 18:06:51,347 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 18:06:51,416 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 18:10:55,311 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 18:10:57,641 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 18:13:10,742 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 18:13:13,123 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 18:14:08,408 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 18:14:11,156 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 18:14:55,841 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2022-02-20 18:14:55,915 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2022-02-20 18:14:55,923 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-20 18:14:55,939 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2022-02-20 18:14:55,941 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2022-02-20 18:14:55,958 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2022-02-20 18:14:55,974 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-20 18:14:55,994 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-20 18:14:56,010 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-20 18:14:56,021 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-20 18:14:56,030 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2022-02-20 18:14:56,039 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2022-02-20 18:14:56,054 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+WARNING 2022-02-20 18:14:56,345 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 18:14:56,416 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 18:15:13,485 basehttp 154 "GET / HTTP/1.1" 200 11962
+WARNING 2022-02-20 18:15:20,726 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 18:15:20,768 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 18:17:19,968 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 18:17:23,990 basehttp 154 "GET /register HTTP/1.1" 301 0
+INFO 2022-02-20 18:17:24,051 basehttp 154 "GET /register/ HTTP/1.1" 200 5312
+INFO 2022-02-20 18:17:24,104 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 7122
+INFO 2022-02-20 18:17:24,114 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-20 18:17:24,116 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-20 18:17:24,118 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-20 18:17:24,119 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-20 18:17:24,130 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+WARNING 2022-02-20 18:17:24,327 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 18:17:24,376 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 18:17:24,529 basehttp 154 "GET /imagecode/?uuid=961788a6-d158-4af6-8c9b-6cca388f69b1 HTTP/1.1" 200 3365
+INFO 2022-02-20 18:17:57,531 views 140 845731
+INFO 2022-02-20 18:17:57,533 basehttp 154 "GET /smscode/?mobile=15059360618&image_code=knwi&uuid=961788a6-d158-4af6-8c9b-6cca388f69b1 HTTP/1.1" 200 63
+INFO 2022-02-20 18:18:06,589 basehttp 154 "POST /register/ HTTP/1.1" 302 0
+INFO 2022-02-20 18:18:06,603 basehttp 154 "GET / HTTP/1.1" 200 11962
+INFO 2022-02-20 18:18:06,636 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2022-02-20 18:18:06,647 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2022-02-20 18:18:06,648 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-20 18:18:06,648 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2022-02-20 18:18:06,679 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-20 18:18:06,704 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2022-02-20 18:18:06,706 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-20 18:18:06,778 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-20 18:18:06,788 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-20 18:18:06,798 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2022-02-20 18:18:06,807 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2022-02-20 18:18:06,825 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+INFO 2022-02-20 18:18:07,007 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-20 18:18:08,158 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 21:04:51,559 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 21:04:54,107 basehttp 154 "GET /login HTTP/1.1" 301 0
+INFO 2022-02-20 21:04:54,187 basehttp 154 "GET /login/ HTTP/1.1" 200 3074
+INFO 2022-02-20 21:04:54,285 basehttp 154 "GET /static/js/login.js HTTP/1.1" 200 677
+WARNING 2022-02-20 21:05:08,758 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 21:05:08,815 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-20 21:06:00,341 log 228 Forbidden (CSRF token missing or incorrect.): /login/
+WARNING 2022-02-20 21:06:00,343 basehttp 154 "POST /login/ HTTP/1.1" 403 2513
+INFO 2022-02-20 21:06:35,693 basehttp 154 "GET /login/ HTTP/1.1" 200 3216
+ERROR 2022-02-20 21:06:37,698 log 228 Internal Server Error: /login/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\users\views.py", line 179, in post
+    request.session.set_expiray(0)
+AttributeError: 'SessionStore' object has no attribute 'set_expiray'
+ERROR 2022-02-20 21:06:37,704 basehttp 154 "POST /login/ HTTP/1.1" 500 85710
+INFO 2022-02-20 21:07:38,055 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 21:07:40,256 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 21:07:43,553 basehttp 154 "GET /login/ HTTP/1.1" 200 3216
+WARNING 2022-02-20 21:07:47,965 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 21:07:48,004 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 21:07:49,659 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2022-02-20 21:07:49,673 basehttp 154 "GET / HTTP/1.1" 200 11952
+INFO 2022-02-20 21:07:49,719 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2022-02-20 21:07:49,724 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-20 21:07:49,740 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2022-02-20 21:07:49,765 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2022-02-20 21:07:49,798 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2022-02-20 21:07:49,809 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-20 21:07:49,822 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-20 21:07:49,845 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-20 21:07:49,871 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-20 21:07:49,880 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 530
+INFO 2022-02-20 21:07:49,891 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2022-02-20 21:07:49,908 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+WARNING 2022-02-20 21:07:50,369 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 21:07:50,477 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 21:12:56,657 basehttp 154 "GET / HTTP/1.1" 200 11952
+INFO 2022-02-20 21:16:37,623 basehttp 154 "GET / HTTP/1.1" 200 11959
+INFO 2022-02-20 21:24:15,930 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 21:24:18,527 autoreload 597 Watching for file changes with StatReloader
+WARNING 2022-02-20 21:24:57,220 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 21:24:57,472 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+ERROR 2022-02-20 21:25:34,140 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\home\views.py", line 9, in get
+    return render(request, 'index.html')
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+ERROR 2022-02-20 21:25:34,152 basehttp 154 "GET / HTTP/1.1" 500 142301
+INFO 2022-02-20 21:26:17,411 autoreload 217 D:\PycharmProject\blog\users\urls.py changed, reloading.
+INFO 2022-02-20 21:26:19,827 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 21:27:15,582 autoreload 217 D:\PycharmProject\blog\users\urls.py changed, reloading.
+INFO 2022-02-20 21:27:18,027 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 21:27:22,658 basehttp 154 "GET / HTTP/1.1" 200 11966
+INFO 2022-02-20 21:27:22,720 basehttp 154 "GET /static/md_css/monokai.css HTTP/1.1" 200 4118
+INFO 2022-02-20 21:27:22,735 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2022-02-20 21:27:22,736 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-20 21:27:22,757 basehttp 154 "GET /static/common/common.css HTTP/1.1" 200 381
+INFO 2022-02-20 21:27:22,787 basehttp 154 "GET /static/common/jquery.pagination.css HTTP/1.1" 200 523
+INFO 2022-02-20 21:27:22,809 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-20 21:27:22,812 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-20 21:27:22,847 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-20 21:27:22,857 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-20 21:27:22,869 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 547
+INFO 2022-02-20 21:27:22,883 basehttp 154 "GET /static/js/jquery.pagination.min.js HTTP/1.1" 200 2935
+INFO 2022-02-20 21:27:22,905 basehttp 154 "GET /static/img/1.jpg HTTP/1.1" 200 78682
+INFO 2022-02-20 21:27:23,206 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-20 21:27:23,332 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 21:28:49,272 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 21:28:52,718 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 21:28:53,629 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2022-02-20 21:28:53,652 basehttp 154 "GET / HTTP/1.1" 200 11966
+INFO 2022-02-20 21:28:53,694 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+WARNING 2022-02-20 21:28:53,888 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 21:28:53,951 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 21:29:45,825 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 21:29:48,516 autoreload 597 Watching for file changes with StatReloader
+WARNING 2022-02-20 21:30:48,135 log 228 Not Found: /login.html
+WARNING 2022-02-20 21:30:48,136 basehttp 154 "GET /login.html HTTP/1.1" 404 2983
+ERROR 2022-02-20 21:32:23,851 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\home\views.py", line 9, in get
+    return render(request, 'index.html')
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'users£ºlogin' not found. 'users£ºlogin' is not a valid view function or pattern name.
+ERROR 2022-02-20 21:32:23,863 basehttp 154 "GET / HTTP/1.1" 500 136931
+WARNING 2022-02-20 21:32:31,236 log 228 Not Found: /index
+WARNING 2022-02-20 21:32:31,237 basehttp 154 "GET /index HTTP/1.1" 404 2968
+WARNING 2022-02-20 21:32:48,615 log 228 Not Found: /indexlogi
+WARNING 2022-02-20 21:32:48,617 basehttp 154 "GET /indexlogi HTTP/1.1" 404 2980
+INFO 2022-02-20 21:32:58,844 basehttp 154 "GET /login/ HTTP/1.1" 200 3216
+INFO 2022-02-20 21:33:01,590 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+ERROR 2022-02-20 21:33:01,750 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\home\views.py", line 9, in get
+    return render(request, 'index.html')
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'users£ºlogin' not found. 'users£ºlogin' is not a valid view function or pattern name.
+ERROR 2022-02-20 21:33:01,758 basehttp 154 "GET / HTTP/1.1" 500 137579
+INFO 2022-02-20 21:33:11,253 basehttp 154 "GET /login/ HTTP/1.1" 200 3216
+INFO 2022-02-20 21:33:59,506 autoreload 217 D:\PycharmProject\blog\home\views.py changed, reloading.
+INFO 2022-02-20 21:34:01,764 autoreload 597 Watching for file changes with StatReloader
+WARNING 2022-02-20 21:34:22,563 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 21:34:22,634 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 21:34:31,609 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+ERROR 2022-02-20 21:34:31,777 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\home\views.py", line 9, in get
+    return render(request, 'index.html')
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'users£ºlogin' not found. 'users£ºlogin' is not a valid view function or pattern name.
+ERROR 2022-02-20 21:34:31,791 basehttp 154 "GET / HTTP/1.1" 500 137580
+ERROR 2022-02-20 21:35:38,765 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\home\views.py", line 9, in get
+    return render(request, 'index.html')
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\defaulttags.py", line 443, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'users£ºlogin' not found. 'users£ºlogin' is not a valid view function or pattern name.
+ERROR 2022-02-20 21:35:38,775 basehttp 154 "GET / HTTP/1.1" 500 137425
+INFO 2022-02-20 21:38:22,637 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 21:38:29,963 basehttp 154 "GET / HTTP/1.1" 200 11963
+INFO 2022-02-20 21:38:30,074 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+ERROR 2022-02-20 21:38:34,303 log 228 Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\users\views.py", line 198, in get
+    response = redirect(reverse('home:login'))
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\urls\base.py", line 90, in reverse
+    return iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs))
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\urls\resolvers.py", line 668, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'login' not found. 'login' is not a valid view function or pattern name.
+ERROR 2022-02-20 21:38:34,312 basehttp 154 "GET /logout/ HTTP/1.1" 500 94197
+INFO 2022-02-20 21:39:26,392 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 21:39:29,522 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 21:39:31,675 basehttp 154 "GET / HTTP/1.1" 200 11963
+INFO 2022-02-20 21:39:33,977 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2022-02-20 21:39:34,001 basehttp 154 "GET /login/ HTTP/1.1" 200 3216
+WARNING 2022-02-20 21:39:41,686 log 228 Not Found: /index
+WARNING 2022-02-20 21:39:41,687 basehttp 154 "GET /index HTTP/1.1" 404 2968
+INFO 2022-02-20 21:39:46,637 basehttp 154 "GET / HTTP/1.1" 200 11963
+WARNING 2022-02-20 21:39:51,351 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 21:39:51,403 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 21:40:03,490 basehttp 154 "GET /login/ HTTP/1.1" 200 3216
+WARNING 2022-02-20 21:40:03,764 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 21:40:03,799 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 21:43:58,268 autoreload 217 D:\PycharmProject\blog\users\urls.py changed, reloading.
+INFO 2022-02-20 21:44:00,827 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 21:48:43,554 autoreload 217 D:\PycharmProject\blog\users\urls.py changed, reloading.
+INFO 2022-02-20 21:48:46,113 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 21:53:14,502 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 21:53:17,357 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 21:54:52,228 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 21:54:55,739 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 22:03:27,832 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 22:03:31,557 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 22:09:48,616 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 22:09:51,054 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 22:12:14,975 basehttp 154 "GET /login/ HTTP/1.1" 200 3206
+WARNING 2022-02-20 22:12:18,833 log 228 Not Found: /login/forget_password.html
+WARNING 2022-02-20 22:12:18,834 basehttp 154 "GET /login/forget_password.html HTTP/1.1" 404 3216
+INFO 2022-02-20 22:13:44,952 basehttp 154 "GET / HTTP/1.1" 200 11963
+INFO 2022-02-20 22:13:45,011 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2022-02-20 22:13:52,617 basehttp 154 "GET /login/ HTTP/1.1" 200 3214
+WARNING 2022-02-20 22:15:26,006 log 228 Not Found: /login/{url 'users:forgetpassword'}
+WARNING 2022-02-20 22:15:26,007 basehttp 154 "GET /login/%7Burl%20'users:forgetpassword'%7D HTTP/1.1" 404 3270
+INFO 2022-02-20 22:16:43,635 basehttp 154 "GET /login/ HTTP/1.1" 200 3202
+INFO 2022-02-20 22:16:45,120 basehttp 154 "GET /forgetpassword/ HTTP/1.1" 200 5194
+INFO 2022-02-20 22:16:45,185 basehttp 154 "GET /static/js/forget_password.js HTTP/1.1" 200 6567
+INFO 2022-02-20 22:16:45,427 basehttp 154 "GET /imagecode/?uuid=1603c969-2def-4371-b9fe-186a9b129ad3 HTTP/1.1" 200 3365
+INFO 2022-02-20 22:17:10,333 views 139 877524
+INFO 2022-02-20 22:17:10,335 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=rz8w&uuid=1603c969-2def-4371-b9fe-186a9b129ad3 HTTP/1.1" 200 63
+WARNING 2022-02-20 22:17:28,762 log 228 Forbidden (CSRF token missing or incorrect.): /forgetpassword/
+WARNING 2022-02-20 22:17:28,763 basehttp 154 "POST /forgetpassword/ HTTP/1.1" 403 2513
+INFO 2022-02-20 22:18:02,649 basehttp 154 "GET /forgetpassword/ HTTP/1.1" 200 5336
+INFO 2022-02-20 22:18:02,777 basehttp 154 "GET /imagecode/?uuid=36ce9acf-80fd-4f84-912f-48d489961e2e HTTP/1.1" 200 3158
+INFO 2022-02-20 22:18:18,940 views 139 370374
+INFO 2022-02-20 22:18:18,942 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=usak&uuid=36ce9acf-80fd-4f84-912f-48d489961e2e HTTP/1.1" 200 63
+INFO 2022-02-20 22:18:30,344 basehttp 154 "POST /forgetpassword/ HTTP/1.1" 200 36
+INFO 2022-02-20 22:18:37,141 basehttp 154 "GET /login/ HTTP/1.1" 200 3202
+WARNING 2022-02-20 22:18:42,125 log 228 Bad Request: /login/
+WARNING 2022-02-20 22:18:42,126 basehttp 154 "POST /login/ HTTP/1.1" 400 30
+WARNING 2022-02-20 22:18:50,115 log 228 Bad Request: /login/
+WARNING 2022-02-20 22:18:50,116 basehttp 154 "POST /login/ HTTP/1.1" 400 24
+WARNING 2022-02-20 22:19:00,177 log 228 Bad Request: /login/
+WARNING 2022-02-20 22:19:00,178 basehttp 154 "POST /login/ HTTP/1.1" 400 24
+INFO 2022-02-20 22:19:22,454 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2022-02-20 22:19:22,463 basehttp 154 "GET / HTTP/1.1" 200 11963
+INFO 2022-02-20 22:19:38,605 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2022-02-20 22:19:38,616 basehttp 154 "GET /login/ HTTP/1.1" 200 3202
+INFO 2022-02-20 22:19:41,373 basehttp 154 "GET /forgetpassword/ HTTP/1.1" 200 5336
+INFO 2022-02-20 22:19:41,477 basehttp 154 "GET /imagecode/?uuid=54501cfd-9656-46bf-a5e1-d2efcf269f2e HTTP/1.1" 200 3406
+INFO 2022-02-20 22:19:58,942 views 139 986011
+INFO 2022-02-20 22:19:58,944 basehttp 154 "GET /smscode/?mobile=15059360715&image_code=xuyd&uuid=54501cfd-9656-46bf-a5e1-d2efcf269f2e HTTP/1.1" 200 63
+INFO 2022-02-20 22:20:09,090 basehttp 154 "POST /forgetpassword/ HTTP/1.1" 200 36
+INFO 2022-02-20 22:49:15,325 autoreload 217 D:\PycharmProject\blog\users\views.py changed, reloading.
+INFO 2022-02-20 23:26:00,188 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 23:26:09,184 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2022-02-20 23:26:09,476 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+WARNING 2022-02-20 23:26:09,884 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 23:26:09,940 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 23:26:11,222 basehttp 154 "GET /login/ HTTP/1.1" 200 3202
+WARNING 2022-02-20 23:26:11,548 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 23:26:11,614 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 23:26:13,749 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2022-02-20 23:26:13,765 basehttp 154 "GET / HTTP/1.1" 200 11950
+WARNING 2022-02-20 23:26:14,176 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 23:26:14,331 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 23:26:19,892 basehttp 154 "GET /center/ HTTP/1.1" 200 4009
+INFO 2022-02-20 23:26:19,946 basehttp 154 "GET /static/js/center.js HTTP/1.1" 200 522
+WARNING 2022-02-20 23:26:20,178 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 23:26:20,200 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-20 23:28:09,176 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 23:28:09,235 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 23:28:12,968 basehttp 154 "GET / HTTP/1.1" 200 11950
+WARNING 2022-02-20 23:28:13,257 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 23:28:13,291 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 23:28:16,980 basehttp 154 "GET / HTTP/1.1" 200 11950
+WARNING 2022-02-20 23:28:17,217 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 23:28:17,241 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 23:28:19,818 basehttp 154 "GET / HTTP/1.1" 200 11950
+WARNING 2022-02-20 23:28:20,055 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 23:28:20,092 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 23:47:03,783 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 23:47:10,914 basehttp 154 "GET /center/ HTTP/1.1" 200 4009
+WARNING 2022-02-20 23:47:11,177 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 23:47:11,234 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-20 23:47:33,837 log 228 Forbidden (CSRF token missing or incorrect.): /center/
+WARNING 2022-02-20 23:47:33,839 basehttp 154 "POST /center/ HTTP/1.1" 403 2513
+WARNING 2022-02-20 23:48:03,122 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 23:48:03,190 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 23:49:00,692 basehttp 154 "GET /center/ HTTP/1.1" 200 4151
+INFO 2022-02-20 23:49:00,749 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 140942
+INFO 2022-02-20 23:49:00,752 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2022-02-20 23:49:00,776 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2022-02-20 23:49:00,796 basehttp 154 "GET /static/js/host.js HTTP/1.1" 200 35
+INFO 2022-02-20 23:49:00,799 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2022-02-20 23:49:00,830 basehttp 154 "GET /static/js/center.js HTTP/1.1" 200 522
+WARNING 2022-02-20 23:49:00,974 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 23:49:01,006 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 23:49:46,009 basehttp 154 "POST /center/ HTTP/1.1" 302 0
+INFO 2022-02-20 23:49:46,051 basehttp 154 "GET /center/ HTTP/1.1" 200 4255
+WARNING 2022-02-20 23:49:46,085 log 228 Not Found: /center/avatar20220220/181218ywaq.jpg
+WARNING 2022-02-20 23:49:46,087 basehttp 154 "GET /center/avatar20220220/181218ywaq.jpg HTTP/1.1" 404 3415
+WARNING 2022-02-20 23:49:46,207 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 23:49:46,348 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-20 23:49:46,386 log 228 Not Found: /center/avatar20220220/181218ywaq.jpg
+WARNING 2022-02-20 23:49:46,387 basehttp 154 "GET /center/avatar20220220/181218ywaq.jpg HTTP/1.1" 404 3415
+INFO 2022-02-20 23:52:58,076 autoreload 217 D:\PycharmProject\blog\blog\settings.py changed, reloading.
+INFO 2022-02-20 23:53:00,646 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 23:53:45,513 autoreload 217 D:\PycharmProject\blog\blog\urls.py changed, reloading.
+INFO 2022-02-20 23:53:47,910 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 23:56:36,019 autoreload 217 D:\PycharmProject\blog\blog\urls.py changed, reloading.
+INFO 2022-02-20 23:56:38,834 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 23:58:10,257 autoreload 217 D:\PycharmProject\blog\blog\urls.py changed, reloading.
+INFO 2022-02-20 23:58:12,772 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-20 23:58:57,662 basehttp 154 "GET /center/ HTTP/1.1" 200 4262
+INFO 2022-02-20 23:58:57,714 basehttp 154 "GET /media/avatar20220220/181218ywaq.jpg HTTP/1.1" 200 17439
+WARNING 2022-02-20 23:58:57,943 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 23:58:57,977 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-20 23:59:11,627 basehttp 154 "POST /center/ HTTP/1.1" 302 0
+INFO 2022-02-20 23:59:11,680 basehttp 154 "GET /center/ HTTP/1.1" 200 4283
+WARNING 2022-02-20 23:59:11,887 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-20 23:59:11,904 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 00:01:19,267 basehttp 154 "POST /center/ HTTP/1.1" 302 0
+INFO 2022-02-21 00:01:19,309 basehttp 154 "GET /center/ HTTP/1.1" 200 4307
+INFO 2022-02-21 00:01:19,353 basehttp 154 "GET /media/avatar20220221/20170716123350_RNVQk.thumb.1000_0.jpeg HTTP/1.1" 200 88226
+WARNING 2022-02-21 00:01:19,442 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 00:01:19,556 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 00:05:21,765 autoreload 217 D:\PycharmProject\blog\blog\settings.py changed, reloading.
+INFO 2022-02-21 00:05:24,343 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 00:05:44,431 autoreload 217 D:\PycharmProject\blog\blog\settings.py changed, reloading.
+INFO 2022-02-21 00:05:46,792 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 00:07:53,591 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 00:20:12,686 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 00:20:48,824 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 00:23:32,319 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 00:23:39,959 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2022-02-21 00:23:40,150 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+WARNING 2022-02-21 00:23:40,451 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 00:23:40,750 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 00:23:43,374 basehttp 154 "GET /center/ HTTP/1.1" 200 4307
+INFO 2022-02-21 00:23:43,445 basehttp 154 "GET /media/avatar20220221/20170716123350_RNVQk.thumb.1000_0.jpeg HTTP/1.1" 304 0
+WARNING 2022-02-21 00:23:43,670 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 00:23:43,753 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 15:24:07,587 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 15:24:12,596 basehttp 154 "GET /center/ HTTP/1.1" 200 4310
+INFO 2022-02-21 15:24:12,782 basehttp 154 "GET /media/avatar20220221/v2-530b32df073902adf8cf0c8d790a99be_r.jpg HTTP/1.1" 200 212701
+WARNING 2022-02-21 15:24:13,048 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 15:24:13,337 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 15:24:18,753 basehttp 154 "GET /center/ HTTP/1.1" 200 4310
+WARNING 2022-02-21 15:24:18,922 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 15:24:18,944 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 15:24:28,842 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2022-02-21 15:24:28,930 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2022-02-21 15:24:33,563 basehttp 154 "GET /center/ HTTP/1.1" 200 4310
+INFO 2022-02-21 15:26:14,974 basehttp 154 "GET /center/ HTTP/1.1" 200 4316
+INFO 2022-02-21 15:26:17,720 basehttp 154 "GET /center/ HTTP/1.1" 200 4316
+INFO 2022-02-21 15:26:23,789 basehttp 154 "GET / HTTP/1.1" 200 11950
+INFO 2022-02-21 15:26:37,071 basehttp 154 "GET /center/ HTTP/1.1" 200 4316
+INFO 2022-02-21 15:26:56,022 basehttp 154 "POST /center/ HTTP/1.1" 302 0
+INFO 2022-02-21 15:26:56,061 basehttp 154 "GET /center/ HTTP/1.1" 200 4290
+INFO 2022-02-21 15:26:56,097 basehttp 154 "GET /media/avatar/20220221/181218ywaq.jpg HTTP/1.1" 200 17439
+INFO 2022-02-21 15:46:53,816 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 15:46:59,904 basehttp 154 "GET /center/ HTTP/1.1" 200 4276
+INFO 2022-02-21 15:46:59,930 basehttp 154 "GET /media/avatar/20220221/181218ywaq.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 15:47:05,822 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2022-02-21 15:47:20,492 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5662
+INFO 2022-02-21 15:47:20,567 basehttp 154 "GET /static/ckeditor/ckeditor-init.js HTTP/1.1" 200 2039
+INFO 2022-02-21 15:47:20,590 basehttp 154 "GET /static/js/write_blog.js HTTP/1.1" 200 521
+INFO 2022-02-21 15:47:20,898 basehttp 154 "GET /static/ckeditor/ckeditor/ckeditor.js HTTP/1.1" 200 690627
+WARNING 2022-02-21 15:47:21,011 log 228 Not Found: /writeblog/ckeditor/ckeditor/config.js
+WARNING 2022-02-21 15:47:21,012 basehttp 154 "GET /writeblog/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3727
+WARNING 2022-02-21 15:47:21,032 log 228 Not Found: /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2022-02-21 15:47:21,037 log 228 Not Found: /writeblog/ckeditor/ckeditor/lang/zh-cn.js
+WARNING 2022-02-21 15:47:21,038 basehttp 154 "GET /writeblog/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3781
+WARNING 2022-02-21 15:47:21,039 basehttp 154 "GET /writeblog/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 404 3739
+INFO 2022-02-21 15:56:49,739 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 15:56:54,303 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5671
+WARNING 2022-02-21 15:56:54,507 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 15:56:54,546 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-21 15:56:54,738 basehttp 154 "GET /static/ckeditor/ckeditor/%7Dconfig.js?t=I3I8 HTTP/1.1" 404 1717
+WARNING 2022-02-21 15:56:54,806 basehttp 154 "GET /static/ckeditor/ckeditor/%7Dskins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 1771
+WARNING 2022-02-21 15:56:54,834 basehttp 154 "GET /static/ckeditor/ckeditor/%7Dlang/zh-cn.js?t=I3I8 HTTP/1.1" 404 1729
+INFO 2022-02-21 15:57:20,572 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5671
+WARNING 2022-02-21 15:57:20,763 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 15:57:20,872 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-21 15:57:21,186 basehttp 154 "GET /static/ckeditor/ckeditor/%7Dconfig.js?t=I3I8 HTTP/1.1" 404 1717
+WARNING 2022-02-21 15:57:21,296 basehttp 154 "GET /static/ckeditor/ckeditor/%7Dskins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 1771
+WARNING 2022-02-21 15:57:21,326 basehttp 154 "GET /static/ckeditor/ckeditor/%7Dlang/zh-cn.js?t=I3I8 HTTP/1.1" 404 1729
+INFO 2022-02-21 16:00:35,723 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5670
+WARNING 2022-02-21 16:00:36,033 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 16:00:36,089 basehttp 154 "GET /static/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 200 338
+INFO 2022-02-21 16:00:36,123 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 200 46921
+INFO 2022-02-21 16:00:36,146 basehttp 154 "GET /static/ckeditor/ckeditor/lang/zh-cn.js?t=I3I8 HTTP/1.1" 200 18818
+INFO 2022-02-21 16:00:36,181 basehttp 154 "GET /static/ckeditor/ckeditor/styles.js?t=I3I8 HTTP/1.1" 200 5583
+INFO 2022-02-21 16:00:36,196 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 16:00:36,238 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css HTTP/1.1" 200 381
+INFO 2022-02-21 16:00:36,266 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css HTTP/1.1" 200 1306
+INFO 2022-02-21 16:00:36,294 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/copyformatting/styles/copyformatting.css HTTP/1.1" 200 1513
+INFO 2022-02-21 16:00:36,343 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css HTTP/1.1" 200 419
+INFO 2022-02-21 16:00:36,356 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/tableselection/styles/tableselection.css HTTP/1.1" 200 1082
+INFO 2022-02-21 16:00:36,440 basehttp 154 "GET /static/ckeditor/ckeditor/skins/moono-lisa/icons.png?t=95e5d83 HTTP/1.1" 200 12421
+INFO 2022-02-21 16:00:36,593 basehttp 154 "GET /static/ckeditor/ckeditor/contents.css?t=I3I8 HTTP/1.1" 200 2954
+INFO 2022-02-21 16:18:08,078 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 16:18:14,326 basehttp 154 "GET /admin HTTP/1.1" 301 0
+INFO 2022-02-21 16:18:14,467 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2022-02-21 16:18:15,808 basehttp 154 "GET /admin/ HTTP/1.1" 302 0
+INFO 2022-02-21 16:18:18,134 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1963
+INFO 2022-02-21 16:18:18,229 basehttp 154 "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+INFO 2022-02-21 16:18:18,239 basehttp 154 "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+INFO 2022-02-21 16:18:18,242 basehttp 154 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1963
+INFO 2022-02-21 16:18:18,245 basehttp 154 "GET /static/admin/css/responsive.css HTTP/1.1" 200 17944
+INFO 2022-02-21 16:18:18,322 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2022-02-21 16:18:18,468 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2022-02-21 16:18:18,468 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2022-02-21 16:18:18,470 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2022-02-21 16:18:32,613 basehttp 154 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2022-02-21 16:18:32,684 basehttp 154 "GET /admin/ HTTP/1.1" 200 2588
+INFO 2022-02-21 16:18:32,717 basehttp 154 "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+INFO 2022-02-21 16:18:32,761 basehttp 154 "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2022-02-21 16:18:32,767 basehttp 154 "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2022-02-21 16:20:41,608 autoreload 217 D:\PycharmProject\blog\home\admin.py changed, reloading.
+INFO 2022-02-21 16:20:44,011 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 16:21:57,828 basehttp 154 "GET /admin/ HTTP/1.1" 200 3297
+INFO 2022-02-21 16:21:59,979 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5039
+INFO 2022-02-21 16:22:00,015 basehttp 154 "GET /static/admin/css/forms.css HTTP/1.1" 200 8518
+INFO 2022-02-21 16:22:00,054 basehttp 154 "GET /static/admin/js/core.js HTTP/1.1" 200 7099
+INFO 2022-02-21 16:22:00,065 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2022-02-21 16:22:00,082 basehttp 154 "GET /static/admin/css/widgets.css HTTP/1.1" 200 10340
+INFO 2022-02-21 16:22:00,110 basehttp 154 "GET /static/admin/js/actions.js HTTP/1.1" 200 6766
+INFO 2022-02-21 16:22:00,117 basehttp 154 "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+INFO 2022-02-21 16:22:00,139 basehttp 154 "GET /static/admin/js/calendar.js HTTP/1.1" 200 7777
+INFO 2022-02-21 16:22:00,147 basehttp 154 "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+INFO 2022-02-21 16:22:00,152 basehttp 154 "GET /static/admin/js/urlify.js HTTP/1.1" 200 8941
+INFO 2022-02-21 16:22:00,172 basehttp 154 "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+INFO 2022-02-21 16:22:00,192 basehttp 154 "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+INFO 2022-02-21 16:22:00,204 basehttp 154 "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+INFO 2022-02-21 16:22:00,214 basehttp 154 "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+INFO 2022-02-21 16:22:00,256 basehttp 154 "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 20218
+INFO 2022-02-21 16:22:00,268 basehttp 154 "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 271817
+INFO 2022-02-21 16:22:00,407 basehttp 154 "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2022-02-21 16:22:00,409 basehttp 154 "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2022-02-21 16:22:07,670 basehttp 154 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2022-02-21 16:22:07,832 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 4580
+INFO 2022-02-21 16:22:07,865 basehttp 154 "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+INFO 2022-02-21 16:22:07,889 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2022-02-21 16:22:07,962 basehttp 154 "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2022-02-21 16:22:07,963 basehttp 154 "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2022-02-21 16:22:12,549 basehttp 154 "GET /admin/home/articlecategory/add/ HTTP/1.1" 200 5039
+INFO 2022-02-21 16:22:12,603 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2022-02-21 16:22:31,405 basehttp 154 "POST /admin/home/articlecategory/add/ HTTP/1.1" 302 0
+INFO 2022-02-21 16:22:31,497 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 4809
+INFO 2022-02-21 16:22:31,564 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+WARNING 2022-02-21 16:22:38,660 log 228 Not Found: /index
+WARNING 2022-02-21 16:22:38,662 basehttp 154 "GET /index HTTP/1.1" 404 3624
+INFO 2022-02-21 16:22:44,461 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2022-02-21 16:22:52,152 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5670
+INFO 2022-02-21 16:23:42,594 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 16:23:52,898 basehttp 154 "GET /admin/ HTTP/1.1" 200 4595
+INFO 2022-02-21 16:23:53,823 basehttp 154 "GET /admin/ HTTP/1.1" 200 4595
+INFO 2022-02-21 16:23:56,345 basehttp 154 "GET /admin/users/user/ HTTP/1.1" 200 5047
+INFO 2022-02-21 16:23:56,408 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2022-02-21 16:24:56,356 autoreload 217 D:\PycharmProject\blog\home\admin.py changed, reloading.
+INFO 2022-02-21 16:24:58,539 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 16:48:53,932 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 16:48:56,754 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2022-02-21 16:49:06,803 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5531
+INFO 2022-02-21 16:50:15,413 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5533
+INFO 2022-02-21 16:51:57,873 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5600
+INFO 2022-02-21 16:52:19,783 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5601
+INFO 2022-02-21 16:52:33,352 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5599
+INFO 2022-02-21 16:53:52,575 autoreload 217 D:\PycharmProject\blog\home\models.py changed, reloading.
+INFO 2022-02-21 16:53:54,674 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 17:09:27,746 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 17:10:07,481 basehttp 154 "GET /admin/ HTTP/1.1" 200 3923
+INFO 2022-02-21 17:10:08,581 basehttp 154 "GET /admin/ HTTP/1.1" 200 3923
+INFO 2022-02-21 17:10:47,948 autoreload 217 D:\PycharmProject\blog\home\admin.py changed, reloading.
+INFO 2022-02-21 17:10:50,272 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 17:10:53,435 basehttp 154 "GET /admin/ HTTP/1.1" 200 4361
+INFO 2022-02-21 17:10:55,405 basehttp 154 "GET /admin/home/article/ HTTP/1.1" 200 3205
+INFO 2022-02-21 17:10:55,470 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2022-02-21 17:11:02,648 basehttp 154 "GET /admin/home/article/add/ HTTP/1.1" 200 9879
+INFO 2022-02-21 17:11:02,707 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2022-02-21 17:11:22,700 basehttp 154 "POST /admin/home/article/add/ HTTP/1.1" 200 10175
+INFO 2022-02-21 17:11:22,760 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+ERROR 2022-02-21 17:12:15,715 log 228 Internal Server Error: /admin/home/article/add/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\options.py", line 1634, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\options.py", line 1565, in _changeform_view
+    self.log_addition(request, new_object, change_message)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\options.py", line 810, in log_addition
+    object_repr=str(object),
+  File "D:\PycharmProject\blog\home\models.py", line 56, in __str__
+    return self.title.join(timezone.now())
+TypeError: can only join an iterable
+ERROR 2022-02-21 17:12:15,722 basehttp 154 "POST /admin/home/article/add/ HTTP/1.1" 500 124674
+INFO 2022-02-21 17:12:48,588 autoreload 217 D:\PycharmProject\blog\home\models.py changed, reloading.
+INFO 2022-02-21 17:12:50,529 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 17:12:55,239 basehttp 154 "GET /admin/home/article/add/ HTTP/1.1" 200 9879
+INFO 2022-02-21 17:12:55,350 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+ERROR 2022-02-21 17:13:28,537 log 228 Internal Server Error: /admin/home/article/add/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\options.py", line 1634, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\options.py", line 1565, in _changeform_view
+    self.log_addition(request, new_object, change_message)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\options.py", line 810, in log_addition
+    object_repr=str(object),
+  File "D:\PycharmProject\blog\home\models.py", line 56, in __str__
+    return self.title + timezone.now
+TypeError: must be str, not function
+ERROR 2022-02-21 17:13:28,547 basehttp 154 "POST /admin/home/article/add/ HTTP/1.1" 500 124852
+INFO 2022-02-21 17:13:43,681 autoreload 217 D:\PycharmProject\blog\home\models.py changed, reloading.
+INFO 2022-02-21 17:13:45,957 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 17:13:48,465 basehttp 154 "GET /admin/home/article/add/ HTTP/1.1" 200 9879
+INFO 2022-02-21 17:13:48,535 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+ERROR 2022-02-21 17:14:32,239 log 228 Internal Server Error: /admin/home/article/add/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\options.py", line 606, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\sites.py", line 223, in inner
+    return view(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\options.py", line 1634, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\utils\decorators.py", line 45, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\utils\decorators.py", line 142, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\options.py", line 1565, in _changeform_view
+    self.log_addition(request, new_object, change_message)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\contrib\admin\options.py", line 810, in log_addition
+    object_repr=str(object),
+  File "D:\PycharmProject\blog\home\models.py", line 56, in __str__
+    return self.title + timezone.now()
+TypeError: must be str, not datetime.datetime
+ERROR 2022-02-21 17:14:32,248 basehttp 154 "POST /admin/home/article/add/ HTTP/1.1" 500 124889
+INFO 2022-02-21 17:15:03,112 autoreload 217 D:\PycharmProject\blog\home\models.py changed, reloading.
+INFO 2022-02-21 17:15:06,204 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 17:15:15,581 basehttp 154 "GET /admin/home/article/add/ HTTP/1.1" 200 9879
+INFO 2022-02-21 17:15:15,649 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2022-02-21 17:15:37,641 basehttp 154 "POST /admin/home/article/add/ HTTP/1.1" 302 0
+INFO 2022-02-21 17:15:37,732 basehttp 154 "GET /admin/home/article/ HTTP/1.1" 200 4666
+INFO 2022-02-21 17:15:37,790 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2022-02-21 17:15:51,090 autoreload 217 D:\PycharmProject\blog\home\models.py changed, reloading.
+INFO 2022-02-21 17:15:53,329 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 17:17:41,435 autoreload 217 D:\PycharmProject\blog\blog\settings.py changed, reloading.
+INFO 2022-02-21 17:17:44,115 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 17:18:02,184 autoreload 217 D:\PycharmProject\blog\home\models.py changed, reloading.
+INFO 2022-02-21 17:18:04,512 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 17:18:06,828 basehttp 154 "GET /admin/home/article/ HTTP/1.1" 200 4433
+INFO 2022-02-21 17:18:06,890 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2022-02-21 17:18:20,435 basehttp 154 "GET /admin/home/ HTTP/1.1" 200 2897
+INFO 2022-02-21 17:18:22,415 basehttp 154 "GET /admin/home/article/add/ HTTP/1.1" 200 9879
+INFO 2022-02-21 17:18:22,469 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2022-02-21 17:18:47,181 basehttp 154 "POST /admin/home/article/add/ HTTP/1.1" 302 0
+INFO 2022-02-21 17:18:47,272 basehttp 154 "GET /admin/home/article/ HTTP/1.1" 200 4886
+INFO 2022-02-21 17:18:47,332 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2022-02-21 17:19:32,948 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2022-02-21 17:19:33,042 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2022-02-21 17:20:22,046 basehttp 154 "GET /admin/ HTTP/1.1" 200 5027
+INFO 2022-02-21 17:20:24,189 basehttp 154 "GET /admin/ HTTP/1.1" 200 5027
+INFO 2022-02-21 17:20:25,731 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 4630
+INFO 2022-02-21 17:20:25,793 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2022-02-21 17:34:32,093 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 17:34:39,841 basehttp 154 "GET /admin/home/articlecategory/ HTTP/1.1" 200 4630
+INFO 2022-02-21 17:34:39,892 basehttp 154 "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2022-02-21 17:34:45,082 basehttp 154 "GET / HTTP/1.1" 200 11936
+INFO 2022-02-21 17:34:48,587 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5599
+WARNING 2022-02-21 17:35:39,301 log 228 Forbidden (CSRF token missing or incorrect.): /writeblog/
+WARNING 2022-02-21 17:35:39,303 basehttp 154 "POST /writeblog/ HTTP/1.1" 403 2508
+INFO 2022-02-21 17:36:03,866 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5737
+WARNING 2022-02-21 17:36:19,744 log 228 Bad Request: /writeblog/
+WARNING 2022-02-21 17:36:19,746 basehttp 154 "POST /writeblog/ HTTP/1.1" 400 12
+WARNING 2022-02-21 17:37:03,429 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 17:37:03,497 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 17:37:10,971 basehttp 154 "GET / HTTP/1.1" 200 11936
+WARNING 2022-02-21 17:37:11,222 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 17:37:11,251 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 17:38:01,986 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5737
+WARNING 2022-02-21 17:38:02,258 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 17:38:02,307 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-21 17:39:33,247 log 228 Bad Request: /writeblog/
+WARNING 2022-02-21 17:39:33,248 basehttp 154 "POST /writeblog/ HTTP/1.1" 400 12
+INFO 2022-02-21 17:40:48,033 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 17:41:06,305 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5737
+WARNING 2022-02-21 17:41:06,619 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 17:41:06,698 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 17:43:11,310 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 17:43:13,003 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5739
+WARNING 2022-02-21 17:43:13,380 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 17:43:13,390 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 17:43:29,292 basehttp 154 "POST /writeblog/ HTTP/1.1" 302 0
+INFO 2022-02-21 17:43:29,310 basehttp 154 "GET / HTTP/1.1" 200 11936
+WARNING 2022-02-21 17:43:29,633 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 17:43:29,676 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 18:37:36,442 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 18:37:43,244 basehttp 154 "GET / HTTP/1.1" 200 11898
+WARNING 2022-02-21 18:37:43,444 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 18:37:43,487 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 18:37:48,595 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 11898
+INFO 2022-02-21 18:37:50,294 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 11898
+INFO 2022-02-21 18:37:51,383 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 11898
+INFO 2022-02-21 18:37:52,410 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 11898
+INFO 2022-02-21 18:38:13,827 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 11898
+INFO 2022-02-21 18:38:14,627 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 11898
+INFO 2022-02-21 18:38:15,481 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 11898
+INFO 2022-02-21 20:25:11,714 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 20:25:17,867 basehttp 154 "GET / HTTP/1.1" 200 4175
+INFO 2022-02-21 20:25:17,910 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+ERROR 2022-02-21 20:25:20,438 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+TypeError: 'ImageFieldFile' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\home\views.py", line 48, in get
+    return render(request, 'index.html', context=context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\defaulttags.py", line 209, in render
+    nodelist.append(node.render_annotated(context))
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 987, in render
+    output = self.filter_expression.resolve(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 671, in resolve
+    obj = self.var.resolve(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 796, in resolve
+    value = self._resolve_lookup(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 837, in _resolve_lookup
+    current = getattr(current, bit)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\fields\files.py", line 61, in url
+    self._require_file()
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\fields\files.py", line 38, in _require_file
+    raise ValueError("The '%s' attribute has no file associated with it." % self.field.name)
+ValueError: The 'avatar' attribute has no file associated with it.
+ERROR 2022-02-21 20:25:20,451 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 500 170164
+INFO 2022-02-21 20:26:54,444 basehttp 154 "GET /center/ HTTP/1.1" 200 4151
+INFO 2022-02-21 20:27:03,076 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5739
+INFO 2022-02-21 20:28:12,891 basehttp 154 "POST /writeblog/ HTTP/1.1" 302 0
+INFO 2022-02-21 20:28:12,933 basehttp 154 "GET / HTTP/1.1" 200 5695
+INFO 2022-02-21 20:28:13,062 basehttp 154 "GET /media/article/20220221/v2-530b32df073902adf8cf0c8d790a99be_r.jpg HTTP/1.1" 200 212701
+ERROR 2022-02-21 20:28:25,200 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+TypeError: 'ImageFieldFile' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\home\views.py", line 48, in get
+    return render(request, 'index.html', context=context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\defaulttags.py", line 209, in render
+    nodelist.append(node.render_annotated(context))
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 987, in render
+    output = self.filter_expression.resolve(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 671, in resolve
+    obj = self.var.resolve(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 796, in resolve
+    value = self._resolve_lookup(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 837, in _resolve_lookup
+    current = getattr(current, bit)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\fields\files.py", line 61, in url
+    self._require_file()
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\fields\files.py", line 38, in _require_file
+    raise ValueError("The '%s' attribute has no file associated with it." % self.field.name)
+ValueError: The 'avatar' attribute has no file associated with it.
+ERROR 2022-02-21 20:28:25,211 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 500 170164
+INFO 2022-02-21 20:29:09,346 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 20:34:39,587 basehttp 154 "GET / HTTP/1.1" 200 5695
+INFO 2022-02-21 20:34:39,702 basehttp 154 "GET /media/article/20220221/v2-530b32df073902adf8cf0c8d790a99be_r.jpg HTTP/1.1" 304 0
+ERROR 2022-02-21 20:44:36,812 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+TypeError: 'ImageFieldFile' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\home\views.py", line 48, in get
+    return render(request, 'index.html', context=context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\defaulttags.py", line 209, in render
+    nodelist.append(node.render_annotated(context))
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 987, in render
+    output = self.filter_expression.resolve(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 671, in resolve
+    obj = self.var.resolve(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 796, in resolve
+    value = self._resolve_lookup(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 837, in _resolve_lookup
+    current = getattr(current, bit)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\fields\files.py", line 61, in url
+    self._require_file()
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\fields\files.py", line 38, in _require_file
+    raise ValueError("The '%s' attribute has no file associated with it." % self.field.name)
+ValueError: The 'avatar' attribute has no file associated with it.
+ERROR 2022-02-21 20:44:36,828 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 500 177261
+ERROR 2022-02-21 20:45:29,086 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+TypeError: 'ImageFieldFile' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\home\views.py", line 48, in get
+    return render(request, 'index.html', context=context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\defaulttags.py", line 209, in render
+    nodelist.append(node.render_annotated(context))
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 987, in render
+    output = self.filter_expression.resolve(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 671, in resolve
+    obj = self.var.resolve(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 796, in resolve
+    value = self._resolve_lookup(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 837, in _resolve_lookup
+    current = getattr(current, bit)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\fields\files.py", line 61, in url
+    self._require_file()
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\fields\files.py", line 38, in _require_file
+    raise ValueError("The '%s' attribute has no file associated with it." % self.field.name)
+ValueError: The 'avatar' attribute has no file associated with it.
+ERROR 2022-02-21 20:45:29,099 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 500 177129
+INFO 2022-02-21 20:45:32,122 basehttp 154 "GET / HTTP/1.1" 200 5695
+INFO 2022-02-21 20:45:32,207 basehttp 154 "GET /media/article/20220221/v2-530b32df073902adf8cf0c8d790a99be_r.jpg HTTP/1.1" 304 0
+ERROR 2022-02-21 20:45:34,612 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+TypeError: 'ImageFieldFile' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\home\views.py", line 48, in get
+    return render(request, 'index.html', context=context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\defaulttags.py", line 209, in render
+    nodelist.append(node.render_annotated(context))
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 904, in render_annotated
+    return self.render(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 987, in render
+    output = self.filter_expression.resolve(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 671, in resolve
+    obj = self.var.resolve(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 796, in resolve
+    value = self._resolve_lookup(context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 837, in _resolve_lookup
+    current = getattr(current, bit)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\fields\files.py", line 61, in url
+    self._require_file()
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\db\models\fields\files.py", line 38, in _require_file
+    raise ValueError("The '%s' attribute has no file associated with it." % self.field.name)
+ValueError: The 'avatar' attribute has no file associated with it.
+ERROR 2022-02-21 20:45:34,637 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 500 177143
+INFO 2022-02-21 20:45:55,166 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 20:46:12,212 basehttp 154 "GET / HTTP/1.1" 200 5695
+INFO 2022-02-21 20:46:13,725 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 5653
+INFO 2022-02-21 20:46:13,759 basehttp 154 "GET /media/article/20220221/181218ywaq.jpg HTTP/1.1" 200 17439
+INFO 2022-02-21 20:46:25,364 basehttp 154 "GET /static/detail.html HTTP/1.1" 200 8879
+INFO 2022-02-21 20:46:25,418 basehttp 154 "GET /static/prism/prism.css HTTP/1.1" 200 4033
+INFO 2022-02-21 20:46:25,448 basehttp 154 "GET /static/js/detail.js HTTP/1.1" 200 1294
+INFO 2022-02-21 20:46:25,621 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/prism/lib/prism/prism_patched.min.js HTTP/1.1" 200 99487
+INFO 2022-02-21 20:46:26,019 basehttp 154 "GET /static/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 200 19035
+INFO 2022-02-21 20:46:26,066 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/prism/plugin.js?t=I3I8 HTTP/1.1" 200 4333
+INFO 2022-02-21 20:46:26,070 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/codesnippet/plugin.js?t=I3I8 HTTP/1.1" 200 3824
+INFO 2022-02-21 20:46:26,103 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/codesnippet/lang/en.js?t=I3I8 HTTP/1.1" 200 369
+INFO 2022-02-21 20:46:26,183 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/codesnippet/icons/codesnippet.png?t=I3I8 HTTP/1.1" 200 597
+INFO 2022-02-21 20:46:26,221 basehttp 154 "GET /static/ckeditor/ckeditor/plugins/prism/lib/prism/prism_patched.min.css HTTP/1.1" 200 2063
+INFO 2022-02-21 20:47:12,805 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 5695
+INFO 2022-02-21 20:52:50,661 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 5705
+INFO 2022-02-21 20:52:50,702 basehttp 154 "GET /media/article/20220221/v2-530b32df073902adf8cf0c8d790a99be_r.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 20:53:00,604 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 5705
+INFO 2022-02-21 20:53:17,741 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 5705
+INFO 2022-02-21 20:53:29,009 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 5705
+INFO 2022-02-21 20:53:38,023 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 5705
+INFO 2022-02-21 20:53:51,331 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 5705
+INFO 2022-02-21 21:13:02,515 autoreload 217 D:\PycharmProject\blog\home\views.py changed, reloading.
+INFO 2022-02-21 21:13:05,940 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 21:13:40,991 autoreload 217 D:\PycharmProject\blog\home\urls.py changed, reloading.
+INFO 2022-02-21 21:13:44,744 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 21:13:50,489 autoreload 217 D:\PycharmProject\blog\home\urls.py changed, reloading.
+INFO 2022-02-21 21:36:32,381 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 21:40:13,553 basehttp 154 "GET /? HTTP/1.1" 200 5697
+INFO 2022-02-21 21:40:13,613 basehttp 154 "GET /media/article/20220221/v2-530b32df073902adf8cf0c8d790a99be_r.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 21:41:07,409 basehttp 154 "GET /? HTTP/1.1" 200 5697
+INFO 2022-02-21 21:41:36,021 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 21:41:38,228 basehttp 154 "GET /? HTTP/1.1" 200 5697
+INFO 2022-02-21 21:41:42,101 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9593
+WARNING 2022-02-21 21:41:42,542 log 228 Not Found: /detail/ckeditor/ckeditor/config.js
+WARNING 2022-02-21 21:41:42,544 basehttp 154 "GET /detail/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3887
+WARNING 2022-02-21 21:41:42,573 log 228 Not Found: /detail/ckeditor/ckeditor/lang/en.js
+WARNING 2022-02-21 21:41:42,577 log 228 Not Found: /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2022-02-21 21:41:42,579 basehttp 154 "GET /detail/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 404 3890
+WARNING 2022-02-21 21:41:42,580 basehttp 154 "GET /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3941
+INFO 2022-02-21 21:45:38,798 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 5655
+INFO 2022-02-21 21:45:38,827 basehttp 154 "GET /media/article/20220221/181218ywaq.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 21:45:40,291 basehttp 154 "GET /detail/?id=6 HTTP/1.1" 200 8504
+WARNING 2022-02-21 21:45:40,656 log 228 Not Found: /detail/ckeditor/ckeditor/config.js
+WARNING 2022-02-21 21:45:40,658 basehttp 154 "GET /detail/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3887
+WARNING 2022-02-21 21:45:40,681 log 228 Not Found: /detail/ckeditor/ckeditor/lang/en.js
+WARNING 2022-02-21 21:45:40,684 log 228 Not Found: /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2022-02-21 21:45:40,685 basehttp 154 "GET /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3941
+WARNING 2022-02-21 21:45:40,686 basehttp 154 "GET /detail/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 404 3890
+INFO 2022-02-21 21:45:47,120 basehttp 154 "GET / HTTP/1.1" 200 5697
+INFO 2022-02-21 21:51:10,781 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 21:51:14,970 basehttp 154 "GET / HTTP/1.1" 200 5697
+INFO 2022-02-21 21:51:15,029 basehttp 154 "GET /media/article/20220221/v2-530b32df073902adf8cf0c8d790a99be_r.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 21:51:16,723 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2022-02-21 21:51:16,747 basehttp 154 "GET /login/ HTTP/1.1" 200 3202
+INFO 2022-02-21 21:51:21,981 basehttp 154 "GET / HTTP/1.1" 200 5697
+INFO 2022-02-21 21:51:25,999 basehttp 154 "GET /login/ HTTP/1.1" 200 3202
+INFO 2022-02-21 21:55:08,910 basehttp 154 "GET / HTTP/1.1" 200 5686
+INFO 2022-02-21 21:55:11,231 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 5644
+INFO 2022-02-21 21:55:12,554 basehttp 154 "GET /login/ HTTP/1.1" 200 3191
+INFO 2022-02-21 21:57:29,266 autoreload 217 D:\PycharmProject\blog\home\views.py changed, reloading.
+INFO 2022-02-21 21:57:31,695 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 21:58:01,741 autoreload 217 D:\PycharmProject\blog\home\views.py changed, reloading.
+INFO 2022-02-21 21:58:04,397 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 21:59:27,973 autoreload 217 D:\PycharmProject\blog\home\views.py changed, reloading.
+INFO 2022-02-21 21:59:32,169 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 22:01:02,940 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 22:03:04,988 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2022-02-21 22:03:05,347 basehttp 154 "GET / HTTP/1.1" 200 5686
+INFO 2022-02-21 22:03:05,481 basehttp 154 "GET /media/article/20220221/v2-530b32df073902adf8cf0c8d790a99be_r.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 22:03:08,887 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9347
+WARNING 2022-02-21 22:03:09,248 log 228 Not Found: /detail/ckeditor/ckeditor/config.js
+WARNING 2022-02-21 22:03:09,250 basehttp 154 "GET /detail/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3887
+WARNING 2022-02-21 22:03:09,285 log 228 Not Found: /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2022-02-21 22:03:09,291 log 228 Not Found: /detail/ckeditor/ckeditor/lang/en.js
+WARNING 2022-02-21 22:03:09,293 basehttp 154 "GET /detail/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 404 3890
+WARNING 2022-02-21 22:03:09,293 basehttp 154 "GET /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3941
+INFO 2022-02-21 22:03:14,156 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9347
+WARNING 2022-02-21 22:03:14,578 log 228 Not Found: /detail/ckeditor/ckeditor/config.js
+WARNING 2022-02-21 22:03:14,579 basehttp 154 "GET /detail/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3887
+WARNING 2022-02-21 22:03:14,615 log 228 Not Found: /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2022-02-21 22:03:14,622 log 228 Not Found: /detail/ckeditor/ckeditor/lang/en.js
+WARNING 2022-02-21 22:03:14,623 basehttp 154 "GET /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3941
+WARNING 2022-02-21 22:03:14,624 basehttp 154 "GET /detail/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 404 3890
+INFO 2022-02-21 22:03:19,914 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9347
+WARNING 2022-02-21 22:03:20,186 log 228 Not Found: /detail/ckeditor/ckeditor/config.js
+WARNING 2022-02-21 22:03:20,189 basehttp 154 "GET /detail/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3887
+WARNING 2022-02-21 22:03:20,220 log 228 Not Found: /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2022-02-21 22:03:20,225 log 228 Not Found: /detail/ckeditor/ckeditor/lang/en.js
+WARNING 2022-02-21 22:03:20,227 basehttp 154 "GET /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3941
+WARNING 2022-02-21 22:03:20,228 basehttp 154 "GET /detail/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 404 3890
+INFO 2022-02-21 22:03:23,033 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 5644
+INFO 2022-02-21 22:03:24,077 basehttp 154 "GET /detail/?id=6 HTTP/1.1" 200 8258
+WARNING 2022-02-21 22:03:24,460 log 228 Not Found: /detail/ckeditor/ckeditor/config.js
+WARNING 2022-02-21 22:03:24,461 basehttp 154 "GET /detail/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3887
+WARNING 2022-02-21 22:03:24,511 log 228 Not Found: /detail/ckeditor/ckeditor/lang/en.js
+WARNING 2022-02-21 22:03:24,517 log 228 Not Found: /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2022-02-21 22:03:24,519 basehttp 154 "GET /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3941
+WARNING 2022-02-21 22:03:24,519 basehttp 154 "GET /detail/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 404 3890
+INFO 2022-02-21 22:05:35,818 autoreload 217 D:\PycharmProject\blog\home\views.py changed, reloading.
+INFO 2022-02-21 22:05:38,489 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 22:05:41,127 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5728
+INFO 2022-02-21 22:06:14,241 basehttp 154 "POST /writeblog/ HTTP/1.1" 302 0
+INFO 2022-02-21 22:06:14,504 basehttp 154 "GET / HTTP/1.1" 200 5685
+INFO 2022-02-21 22:06:16,531 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 7156
+INFO 2022-02-21 22:06:16,570 basehttp 154 "GET /media/article/20220221/WIN_20200504_21_05_32_Pro.jpg HTTP/1.1" 200 41859
+INFO 2022-02-21 22:06:26,694 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5728
+INFO 2022-02-21 22:06:42,787 basehttp 154 "POST /writeblog/ HTTP/1.1" 302 0
+INFO 2022-02-21 22:06:42,833 basehttp 154 "GET / HTTP/1.1" 200 5685
+INFO 2022-02-21 22:06:44,601 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 7203
+INFO 2022-02-21 22:06:44,638 basehttp 154 "GET /media/article/20220221/WIN_20200504_21_05_32_Pro.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 22:06:44,647 basehttp 154 "GET /media/article/20220221/WIN_20200507_21_46_52_Pro.jpg HTTP/1.1" 200 39165
+INFO 2022-02-21 22:06:45,917 basehttp 154 "GET /?cat_id=2&page_size=2&page_num=2 HTTP/1.1" 200 5643
+INFO 2022-02-21 22:06:48,362 basehttp 154 "GET /?cat_id=2&page_size=2&page_num=1 HTTP/1.1" 200 7203
+INFO 2022-02-21 22:06:48,390 basehttp 154 "GET /media/article/20220221/WIN_20200504_21_05_32_Pro.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 22:06:48,393 basehttp 154 "GET /media/article/20220221/WIN_20200507_21_46_52_Pro.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 22:06:56,252 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 5685
+INFO 2022-02-21 22:06:57,694 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9579
+WARNING 2022-02-21 22:06:58,121 log 228 Not Found: /detail/ckeditor/ckeditor/config.js
+WARNING 2022-02-21 22:06:58,123 basehttp 154 "GET /detail/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3887
+WARNING 2022-02-21 22:06:58,150 log 228 Not Found: /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2022-02-21 22:06:58,155 log 228 Not Found: /detail/ckeditor/ckeditor/lang/en.js
+WARNING 2022-02-21 22:06:58,157 basehttp 154 "GET /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3941
+WARNING 2022-02-21 22:06:58,157 basehttp 154 "GET /detail/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 404 3890
+INFO 2022-02-21 22:07:00,811 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 7203
+INFO 2022-02-21 22:07:00,843 basehttp 154 "GET /media/article/20220221/WIN_20200507_21_46_52_Pro.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 22:07:00,850 basehttp 154 "GET /media/article/20220221/WIN_20200504_21_05_32_Pro.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 22:07:02,351 basehttp 154 "GET /detail/?id=8 HTTP/1.1" 200 8426
+WARNING 2022-02-21 22:07:02,784 log 228 Not Found: /detail/ckeditor/ckeditor/config.js
+WARNING 2022-02-21 22:07:02,786 basehttp 154 "GET /detail/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3887
+WARNING 2022-02-21 22:07:02,818 log 228 Not Found: /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2022-02-21 22:07:02,822 log 228 Not Found: /detail/ckeditor/ckeditor/lang/en.js
+WARNING 2022-02-21 22:07:02,824 basehttp 154 "GET /detail/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 404 3890
+WARNING 2022-02-21 22:07:02,824 basehttp 154 "GET /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3941
+INFO 2022-02-21 22:07:05,097 basehttp 154 "GET /detail/?id=8 HTTP/1.1" 200 8426
+WARNING 2022-02-21 22:07:05,384 log 228 Not Found: /detail/ckeditor/ckeditor/config.js
+WARNING 2022-02-21 22:07:05,386 basehttp 154 "GET /detail/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3887
+WARNING 2022-02-21 22:07:05,412 log 228 Not Found: /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2022-02-21 22:07:05,416 log 228 Not Found: /detail/ckeditor/ckeditor/lang/en.js
+WARNING 2022-02-21 22:07:05,417 basehttp 154 "GET /detail/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 404 3890
+WARNING 2022-02-21 22:07:05,417 basehttp 154 "GET /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3941
+INFO 2022-02-21 22:07:07,660 basehttp 154 "GET /detail/?id=9 HTTP/1.1" 200 8408
+WARNING 2022-02-21 22:07:07,902 log 228 Not Found: /detail/ckeditor/ckeditor/config.js
+WARNING 2022-02-21 22:07:07,903 basehttp 154 "GET /detail/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3887
+WARNING 2022-02-21 22:07:07,941 log 228 Not Found: /detail/ckeditor/ckeditor/lang/en.js
+WARNING 2022-02-21 22:07:07,944 log 228 Not Found: /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2022-02-21 22:07:07,945 basehttp 154 "GET /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3941
+WARNING 2022-02-21 22:07:07,946 basehttp 154 "GET /detail/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 404 3890
+INFO 2022-02-21 22:07:13,475 basehttp 154 "GET /?cat_id=2&page_size=2&page_num=2 HTTP/1.1" 200 5643
+INFO 2022-02-21 22:07:15,019 basehttp 154 "GET /?cat_id=2&page_size=2&page_num=1 HTTP/1.1" 200 7203
+INFO 2022-02-21 22:07:15,049 basehttp 154 "GET /media/article/20220221/WIN_20200507_21_46_52_Pro.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 22:07:15,058 basehttp 154 "GET /media/article/20220221/WIN_20200504_21_05_32_Pro.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 22:07:17,323 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 5685
+INFO 2022-02-21 22:07:19,563 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9579
+WARNING 2022-02-21 22:07:19,981 log 228 Not Found: /detail/ckeditor/ckeditor/config.js
+WARNING 2022-02-21 22:07:19,982 basehttp 154 "GET /detail/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3887
+WARNING 2022-02-21 22:07:20,012 log 228 Not Found: /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2022-02-21 22:07:20,019 basehttp 154 "GET /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3941
+WARNING 2022-02-21 22:07:20,020 log 228 Not Found: /detail/ckeditor/ckeditor/lang/en.js
+WARNING 2022-02-21 22:07:20,023 basehttp 154 "GET /detail/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 404 3890
+INFO 2022-02-21 22:13:21,717 autoreload 217 D:\PycharmProject\blog\home\models.py changed, reloading.
+INFO 2022-02-21 22:25:21,369 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 22:25:29,237 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9783
+WARNING 2022-02-21 22:25:29,567 log 228 Not Found: /detail/ckeditor/ckeditor/config.js
+WARNING 2022-02-21 22:25:29,568 basehttp 154 "GET /detail/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3887
+WARNING 2022-02-21 22:25:29,588 log 228 Not Found: /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2022-02-21 22:25:29,592 log 228 Not Found: /detail/ckeditor/ckeditor/lang/en.js
+WARNING 2022-02-21 22:25:29,592 basehttp 154 "GET /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3941
+WARNING 2022-02-21 22:25:29,593 basehttp 154 "GET /detail/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 404 3890
+WARNING 2022-02-21 22:25:35,996 log 228 Not Found: /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2022-02-21 22:25:35,997 basehttp 154 "GET /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3941
+WARNING 2022-02-21 22:25:36,269 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:25:36,327 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:25:41,707 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9783
+WARNING 2022-02-21 22:25:42,076 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:25:42,140 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-21 22:25:42,432 log 228 Not Found: /detail/ckeditor/ckeditor/config.js
+WARNING 2022-02-21 22:25:42,433 basehttp 154 "GET /detail/ckeditor/ckeditor/config.js?t=I3I8 HTTP/1.1" 404 3887
+WARNING 2022-02-21 22:25:42,492 log 228 Not Found: /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css
+WARNING 2022-02-21 22:25:42,493 basehttp 154 "GET /detail/ckeditor/ckeditor/skins/moono-lisa/editor.css?t=I3I8 HTTP/1.1" 404 3941
+WARNING 2022-02-21 22:25:42,516 log 228 Not Found: /detail/ckeditor/ckeditor/lang/en.js
+WARNING 2022-02-21 22:25:42,517 basehttp 154 "GET /detail/ckeditor/ckeditor/lang/en.js?t=I3I8 HTTP/1.1" 404 3890
+INFO 2022-02-21 22:34:25,879 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 10036
+WARNING 2022-02-21 22:34:26,309 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:34:26,409 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:34:38,276 basehttp 154 "POST /detail/?id=7 HTTP/1.1" 302 0
+INFO 2022-02-21 22:34:38,366 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 10036
+WARNING 2022-02-21 22:34:38,844 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:34:38,912 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:34:48,219 basehttp 154 "GET / HTTP/1.1" 200 5685
+INFO 2022-02-21 22:34:48,448 basehttp 154 "GET /media/article/20220221/v2-530b32df073902adf8cf0c8d790a99be_r.jpg HTTP/1.1" 304 0
+WARNING 2022-02-21 22:34:48,801 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:34:48,825 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:35:22,047 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2022-02-21 22:35:22,065 basehttp 154 "GET /login/ HTTP/1.1" 200 3191
+WARNING 2022-02-21 22:35:22,332 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:35:22,362 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-21 22:35:25,762 log 228 Not Found: /login/index.html
+WARNING 2022-02-21 22:35:25,763 basehttp 154 "GET /login/index.html HTTP/1.1" 404 3826
+WARNING 2022-02-21 22:35:27,736 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:35:27,768 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:35:32,983 basehttp 154 "GET / HTTP/1.1" 200 5685
+WARNING 2022-02-21 22:35:33,285 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:35:33,371 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:35:35,008 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 10026
+WARNING 2022-02-21 22:35:35,540 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:35:35,652 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:36:24,934 basehttp 154 "POST /detail/?id=7 HTTP/1.1" 302 0
+INFO 2022-02-21 22:36:24,974 basehttp 154 "GET /login/ HTTP/1.1" 200 3191
+WARNING 2022-02-21 22:36:25,225 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:36:25,253 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:49:16,382 autoreload 597 Watching for file changes with StatReloader
+INFO 2022-02-21 22:49:24,447 basehttp 154 "GET / HTTP/1.1" 200 5686
+INFO 2022-02-21 22:49:24,537 basehttp 154 "GET /static/js/index.js HTTP/1.1" 304 0
+INFO 2022-02-21 22:49:24,611 basehttp 154 "GET /media/article/20220221/v2-530b32df073902adf8cf0c8d790a99be_r.jpg HTTP/1.1" 304 0
+WARNING 2022-02-21 22:49:24,712 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:49:24,756 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+ERROR 2022-02-21 22:49:26,404 log 228 Internal Server Error: /detail/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\home\views.py", line 76, in get
+    page_comments = paginator.page(num)
+NameError: name 'num' is not defined
+ERROR 2022-02-21 22:49:26,411 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 500 85541
+INFO 2022-02-21 22:50:03,494 autoreload 217 D:\PycharmProject\blog\home\views.py changed, reloading.
+INFO 2022-02-21 22:50:06,077 autoreload 597 Watching for file changes with StatReloader
+WARNING 2022-02-21 22:50:13,714 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:50:13,943 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:50:15,889 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9920
+WARNING 2022-02-21 22:50:16,308 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:50:16,421 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+ERROR 2022-02-21 22:51:57,019 log 228 Internal Server Error: /detail/
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\smartif.py", line 175, in translate_token
+    op = OPERATORS[token]
+KeyError: '!=='
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "D:\PycharmProject\blog\home\views.py", line 92, in get
+    return render(request, 'detail.html', context=context)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\backends\django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\engine.py", line 143, in get_template
+    template, origin = self.find_template(template_name)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\engine.py", line 125, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\loaders\base.py", line 30, in get_template
+    contents, origin, origin.template_name, self.engine,
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 156, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 194, in compile_nodelist
+    return parser.parse()
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 478, in parse
+    raise self.error(token, e)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 476, in parse
+    compiled_result = compile_func(self, token)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\defaulttags.py", line 951, in do_if
+    condition = TemplateIfParser(parser, bits).parse()
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\defaulttags.py", line 884, in __init__
+    super().__init__(*args, **kwargs)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\smartif.py", line 166, in __init__
+    mapped_tokens.append(self.translate_token(token))
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\smartif.py", line 177, in translate_token
+    return self.create_var(token)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\defaulttags.py", line 887, in create_var
+    return TemplateLiteral(self.template_parser.compile_filter(value), value)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 563, in compile_filter
+    return FilterExpression(token, self)
+  File "D:\anaconda3\envs\blog\lib\site-packages\django\template\base.py", line 663, in __init__
+    "from '%s'" % (token[upto:], token))
+django.template.exceptions.TemplateSyntaxError: Could not parse the remainder: '!==' from '!=='
+ERROR 2022-02-21 22:51:57,032 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 500 196702
+INFO 2022-02-21 22:52:06,304 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9004
+WARNING 2022-02-21 22:52:06,930 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:52:07,088 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:52:10,956 basehttp 154 "GET /login/ HTTP/1.1" 200 3191
+WARNING 2022-02-21 22:52:11,076 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:52:11,208 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:52:13,234 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2022-02-21 22:52:13,305 basehttp 154 "GET / HTTP/1.1" 200 5686
+WARNING 2022-02-21 22:52:13,786 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:52:13,811 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:52:15,149 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9015
+INFO 2022-02-21 22:52:15,456 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-21 22:52:15,782 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:53:07,801 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9931
+WARNING 2022-02-21 22:53:08,243 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:53:08,369 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:53:14,560 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2022-02-21 22:53:14,574 basehttp 154 "GET /login/ HTTP/1.1" 200 3191
+WARNING 2022-02-21 22:53:14,886 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:53:14,931 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:53:16,027 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2022-02-21 22:53:16,116 basehttp 154 "GET / HTTP/1.1" 200 5686
+WARNING 2022-02-21 22:53:16,322 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:53:16,347 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:53:19,057 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9931
+INFO 2022-02-21 22:53:19,471 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-21 22:53:19,555 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:53:23,660 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2022-02-21 22:53:23,673 basehttp 154 "GET /login/ HTTP/1.1" 200 3191
+WARNING 2022-02-21 22:53:23,870 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:53:23,895 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:53:26,287 basehttp 154 "GET / HTTP/1.1" 200 5686
+WARNING 2022-02-21 22:53:26,524 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:53:26,582 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:53:27,998 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9920
+INFO 2022-02-21 22:53:28,356 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-21 22:53:28,440 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:53:54,997 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9004
+WARNING 2022-02-21 22:53:55,378 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:53:55,482 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:54:00,604 basehttp 154 "GET /login/ HTTP/1.1" 200 3191
+WARNING 2022-02-21 22:54:00,816 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:54:00,848 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:54:02,159 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2022-02-21 22:54:02,212 basehttp 154 "GET / HTTP/1.1" 200 5686
+WARNING 2022-02-21 22:54:02,446 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 22:54:02,468 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 22:54:03,732 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9015
+INFO 2022-02-21 22:54:04,030 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+WARNING 2022-02-21 22:54:04,234 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 23:03:07,145 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 8612
+WARNING 2022-02-21 23:03:07,675 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 23:03:07,834 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 23:03:21,785 basehttp 154 "GET /logout/ HTTP/1.1" 302 0
+INFO 2022-02-21 23:03:21,809 basehttp 154 "GET /login/ HTTP/1.1" 200 3191
+WARNING 2022-02-21 23:03:22,193 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 23:03:22,252 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 23:03:42,585 basehttp 154 "POST /login/ HTTP/1.1" 302 0
+INFO 2022-02-21 23:03:42,627 basehttp 154 "GET / HTTP/1.1" 200 5686
+INFO 2022-02-21 23:03:42,743 basehttp 154 "GET /media/article/20220221/v2-530b32df073902adf8cf0c8d790a99be_r.jpg HTTP/1.1" 304 0
+WARNING 2022-02-21 23:03:42,855 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 23:03:42,916 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 23:03:48,133 basehttp 154 "GET /writeblog/ HTTP/1.1" 200 5728
+WARNING 2022-02-21 23:03:48,418 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 23:03:48,453 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 23:04:23,969 basehttp 154 "POST /writeblog/ HTTP/1.1" 302 0
+INFO 2022-02-21 23:04:24,025 basehttp 154 "GET / HTTP/1.1" 200 5686
+WARNING 2022-02-21 23:04:24,265 basehttp 154 "GET /static/js/axios.min.map HTTP/1.1" 404 1672
+INFO 2022-02-21 23:04:24,308 basehttp 154 "GET /static/bootstrap/css/bootstrap.min.css.map HTTP/1.1" 200 562427
+INFO 2022-02-21 23:04:33,276 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 8721
+INFO 2022-02-21 23:04:36,379 basehttp 154 "GET /?cat_id=2 HTTP/1.1" 200 7199
+INFO 2022-02-21 23:04:36,458 basehttp 154 "GET /media/article/20220221/WIN_20200507_21_46_44_Pro.jpg HTTP/1.1" 200 38469
+INFO 2022-02-21 23:04:36,481 basehttp 154 "GET /media/article/20220221/WIN_20200507_21_46_52_Pro.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 23:04:38,367 basehttp 154 "GET /?cat_id=2&page_size=2&page_num=2 HTTP/1.1" 200 7156
+INFO 2022-02-21 23:04:38,404 basehttp 154 "GET /media/article/20220221/WIN_20200504_21_05_32_Pro.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 23:04:38,405 basehttp 154 "GET /media/article/20220221/181218ywaq.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 23:04:39,445 basehttp 154 "GET /?cat_id=2&page_size=2&page_num=1 HTTP/1.1" 200 7199
+INFO 2022-02-21 23:04:39,472 basehttp 154 "GET /media/article/20220221/WIN_20200507_21_46_44_Pro.jpg HTTP/1.1" 304 0
+INFO 2022-02-21 23:04:40,763 basehttp 154 "GET /detail/?id=10 HTTP/1.1" 200 7328
+INFO 2022-02-21 23:04:51,310 basehttp 154 "GET /?cat_id=1 HTTP/1.1" 200 5686
+INFO 2022-02-21 23:04:52,750 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 8721
+INFO 2022-02-21 23:04:57,044 basehttp 154 "POST /detail/?id=7 HTTP/1.1" 302 0
+INFO 2022-02-21 23:04:57,110 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9183
+INFO 2022-02-21 23:05:00,890 basehttp 154 "POST /detail/?id=7 HTTP/1.1" 302 0
+INFO 2022-02-21 23:05:00,960 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9648
+INFO 2022-02-21 23:05:04,951 basehttp 154 "POST /detail/?id=7 HTTP/1.1" 302 0
+INFO 2022-02-21 23:05:05,014 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9654
+INFO 2022-02-21 23:05:07,932 basehttp 154 "GET /detail/?id=7&page_size=3&page_num=2 HTTP/1.1" 200 8721
+INFO 2022-02-21 23:05:11,633 basehttp 154 "GET /detail/?id=7&page_size=3&page_num=1 HTTP/1.1" 200 9654
+INFO 2022-02-21 23:05:15,829 basehttp 154 "POST /detail/?id=7&page_size=3&page_num=1 HTTP/1.1" 302 0
+INFO 2022-02-21 23:05:15,903 basehttp 154 "GET /detail/?id=7 HTTP/1.1" 200 9657

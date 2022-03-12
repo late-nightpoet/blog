@@ -163,6 +163,21 @@ var vm = new Vue({
                 // 不满足注册条件：禁用表单
                 window.event.returnValue = false;
             }
+            /*var url = this.host + /register/
+            axios.post(url, {
+                headers: {'X-CSRFToken': this.getCookie('csrftoken')},
+                mobile: this.mobile,
+                password: this.password,
+                password2: this.password2,
+                sms_code: this.sms_code,
+
+            })
+                .then(function (response) {
+                    console.log(response);
+                })
+                .catch(function (error) {
+                    console.log(error)
+                });
+*/
         }
-    }
-});
+},});
