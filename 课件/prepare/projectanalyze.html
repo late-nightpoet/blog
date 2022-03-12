@@ -1,0 +1,936 @@
+<!DOCTYPE HTML>
+<html lang="zh-tw" >
+    <!-- Start book django项目 -->
+    <head>
+        <!-- head:start -->
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>项目分析 | django项目</title>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 2.6.7">
+        
+        
+        <meta name="HandheldFriendly" content="true"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+        <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+        
+    <link rel="stylesheet" href="../gitbook/style.css">
+    
+        
+        <link rel="stylesheet" href="../gitbook/plugins/gitbook-plugin-toggle-chapters/toggle.css">
+        
+    
+        
+        <link rel="stylesheet" href="../gitbook/plugins/gitbook-plugin-splitter/splitter.css">
+        
+    
+        
+        <link rel="stylesheet" href="../gitbook/plugins/gitbook-plugin-emphasize/plugin.css">
+        
+    
+        
+        <link rel="stylesheet" href="../gitbook/plugins/gitbook-plugin-fontsettings/website.css">
+        
+    
+        
+        <link rel="stylesheet" href="../gitbook/plugins/gitbook-plugin-highlight/website.css">
+        
+    
+    
+
+        
+    
+    
+    <link rel="next" href="../prepare/create.html" />
+    
+    
+    <link rel="prev" href="../prepare.html" />
+    
+
+        <!-- head:end -->
+    </head>
+    <body>
+        <!-- body:start -->
+        
+    <div class="book"
+        data-level="1.1"
+        data-chapter-title="项目分析"
+        data-filepath="prepare/projectanalyze.md"
+        data-basepath=".."
+        data-revision="Fri Jan 17 2020 16:59:29 GMT+0800 (CST)"
+        data-innerlanguage="">
+    
+
+<div class="book-summary">
+    <nav role="navigation">
+        <ul class="summary">
+            
+            
+            
+            
+
+            
+
+            
+    
+        <li class="chapter " data-level="0" data-path="index.html">
+            
+                
+                    <a href="../index.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                        Introduction
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="1" data-path="prepare.html">
+            
+                
+                    <a href="../prepare.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>1.</b>
+                        
+                        项目准备
+                    </a>
+            
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter active" data-level="1.1" data-path="prepare/projectanalyze.html">
+            
+                
+                    <a href="../prepare/projectanalyze.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>1.1.</b>
+                        
+                        项目分析
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="prepare/create.html">
+            
+                
+                    <a href="../prepare/create.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>1.2.</b>
+                        
+                        工程创建和配置
+                    </a>
+            
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.2.1" data-path="prepare/create/start.html">
+            
+                
+                    <a href="../prepare/create/start.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>1.2.1.</b>
+                        
+                        创建工程
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.2" data-path="prepare/create/mysql.html">
+            
+                
+                    <a href="../prepare/create/mysql.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>1.2.2.</b>
+                        
+                        MySQL配置
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.3" data-path="prepare/create/redis.html">
+            
+                
+                    <a href="../prepare/create/redis.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>1.2.3.</b>
+                        
+                        Redis配置
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.4" data-path="prepare/create/log.html">
+            
+                
+                    <a href="../prepare/create/log.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>1.2.4.</b>
+                        
+                        日志配置
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2.5" data-path="prepare/create/html.html">
+            
+                
+                    <a href="../prepare/create/html.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>1.2.5.</b>
+                        
+                        静态资源文件
+                    </a>
+            
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="2" data-path="register.html">
+            
+                
+                    <a href="../register.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>2.</b>
+                        
+                        注册
+                    </a>
+            
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1" data-path="register/show.html">
+            
+                
+                    <a href="../register/show.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>2.1.</b>
+                        
+                        界面展示
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2" data-path="register/model.html">
+            
+                
+                    <a href="../register/model.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>2.2.</b>
+                        
+                        定义用户模型类
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="2.3" data-path="register/captcha.html">
+            
+                
+                    <a href="../register/captcha.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>2.3.</b>
+                        
+                        图片验证码
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="2.4" data-path="register/sms.html">
+            
+                
+                    <a href="../register/sms.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>2.4.</b>
+                        
+                        短信验证码
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="2.5" data-path="register/register.html">
+            
+                
+                    <a href="../register/register.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>2.5.</b>
+                        
+                        注册功能实现
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="2.6" data-path="register/home.html">
+            
+                
+                    <a href="../register/home.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>2.6.</b>
+                        
+                        展示首页
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="2.7" data-path="register/status.html">
+            
+                
+                    <a href="../register/status.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>2.7.</b>
+                        
+                        状态保持
+                    </a>
+            
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="3" data-path="login.html">
+            
+                
+                    <a href="../login.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>3.</b>
+                        
+                        登录
+                    </a>
+            
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="3.1" data-path="login/mobilelogin.html">
+            
+                
+                    <a href="../login/mobilelogin.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>3.1.</b>
+                        
+                        手机号登录
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="3.2" data-path="login/username.html">
+            
+                
+                    <a href="../login/username.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>3.2.</b>
+                        
+                        首页用户信息显示
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="3.3" data-path="login/logout.html">
+            
+                
+                    <a href="../login/logout.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>3.3.</b>
+                        
+                        退出登录
+                    </a>
+            
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="4" data-path="forgetpassword.html">
+            
+                
+                    <a href="../forgetpassword.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>4.</b>
+                        
+                        忘记密码
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="5" data-path="center.html">
+            
+                
+                    <a href="../center.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>5.</b>
+                        
+                        用户中心
+                    </a>
+            
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="5.1" data-path="center/show.html">
+            
+                
+                    <a href="../center/show.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>5.1.</b>
+                        
+                        用户中心展示
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="5.2" data-path="center/update.html">
+            
+                
+                    <a href="../center/update.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>5.2.</b>
+                        
+                        用户中心修改
+                    </a>
+            
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="6" data-path="write.html">
+            
+                
+                    <a href="../write.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>6.</b>
+                        
+                        写博客
+                    </a>
+            
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="6.1" data-path="write/show.html">
+            
+                
+                    <a href="../write/show.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>6.1.</b>
+                        
+                        写博客页面展示
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="6.2" data-path="write/category.html">
+            
+                
+                    <a href="../write/category.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>6.2.</b>
+                        
+                        文章分类模型
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="6.3" data-path="write/admin.html">
+            
+                
+                    <a href="../write/admin.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>6.3.</b>
+                        
+                        文章分类后台管理
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="6.4" data-path="write/showcategory.html">
+            
+                
+                    <a href="../write/showcategory.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>6.4.</b>
+                        
+                        写博客页面展示分类
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="6.5" data-path="write/model.html">
+            
+                
+                    <a href="../write/model.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>6.5.</b>
+                        
+                        文章模型
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="6.6" data-path="write/create.html">
+            
+                
+                    <a href="../write/create.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>6.6.</b>
+                        
+                        博客保存
+                    </a>
+            
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="7" data-path="home.html">
+            
+                
+                    <a href="../home.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>7.</b>
+                        
+                        博客首页
+                    </a>
+            
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="7.1" data-path="home/category.html">
+            
+                
+                    <a href="../home/category.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>7.1.</b>
+                        
+                        首页分类数据展示
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="7.2" data-path="home/article.html">
+            
+                
+                    <a href="../home/article.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>7.2.</b>
+                        
+                        首页文章数据展示
+                    </a>
+            
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="8" data-path="detail.html">
+            
+                
+                    <a href="../detail.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>8.</b>
+                        
+                        博客详情
+                    </a>
+            
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="8.1" data-path="detail/show.html">
+            
+                
+                    <a href="../detail/show.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>8.1.</b>
+                        
+                        详情页面展示
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="8.2" data-path="detail/404.html">
+            
+                
+                    <a href="../detail/404.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>8.2.</b>
+                        
+                        404页面
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="8.3" data-path="detail/hot.html">
+            
+                
+                    <a href="../detail/hot.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>8.3.</b>
+                        
+                        推荐文章
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="8.4" data-path="detail/commentmodel.html">
+            
+                
+                    <a href="../detail/commentmodel.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>8.4.</b>
+                        
+                        评论模型
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="8.5" data-path="detail/publishcomment.html">
+            
+                
+                    <a href="../detail/publishcomment.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>8.5.</b>
+                        
+                        发表评论
+                    </a>
+            
+            
+        </li>
+    
+        <li class="chapter " data-level="8.6" data-path="detail/showcomment.html">
+            
+                
+                    <a href="../detail/showcomment.html">
+                
+                        <i class="fa fa-check"></i>
+                        
+                            <b>8.6.</b>
+                        
+                        展示评论
+                    </a>
+            
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+
+            
+            <li class="divider"></li>
+            <li>
+                <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+                    本書使用 GitBook 釋出
+                </a>
+            </li>
+            
+        </ul>
+    </nav>
+</div>
+
+    <div class="book-body">
+        <div class="body-inner">
+            <div class="book-header" role="navigation">
+    <!-- Actions Left -->
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="../" >django项目</a>
+    </h1>
+</div>
+
+            <div class="page-wrapper" tabindex="-1" role="main">
+                <div class="page-inner">
+                
+                
+                    <section class="normal" id="section-">
+                    
+                        <h1 id="&#x9879;&#x76EE;&#x9700;&#x6C42;&#x5206;&#x6790;">&#x9879;&#x76EE;&#x9700;&#x6C42;&#x5206;&#x6790; </h1>
+<blockquote>
+<p>&#x9700;&#x6C42;&#x5206;&#x6790;&#x539F;&#x56E0;</p>
+<ul>
+<li>&#x9879;&#x76EE;&#x4E2D;&#xFF0C;<strong>&#x9700;&#x6C42;&#x9A71;&#x52A8;&#x5F00;&#x53D1;</strong>&#x3002;&#x5373;&#x5F00;&#x53D1;&#x4EBA;&#x5458;&#x9700;&#x8981;&#x4EE5;&#x9700;&#x6C42;&#x4E3A;&#x76EE;&#x6807;&#x6765;&#x5B9E;&#x73B0;&#x4E1A;&#x52A1;&#x903B;&#x8F91;&#x3002;</li>
+</ul>
+<p>&#x9700;&#x6C42;&#x5206;&#x6790;&#x65B9;&#x5F0F;</p>
+<ul>
+<li>&#x4F01;&#x4E1A;&#x4E2D;&#xFF0C;&#x501F;&#x52A9;<strong>&#x4EA7;&#x54C1;&#x539F;&#x578B;&#x56FE;</strong>&#x5206;&#x6790;&#x9700;&#x6C42;&#x3002;</li>
+<li>&#x9700;&#x6C42;&#x5206;&#x6790;&#x5B8C;&#x540E;&#xFF0C;&#x524D;&#x7AEF;&#x6309;&#x7167;&#x4EA7;&#x54C1;&#x539F;&#x578B;&#x56FE;&#x5F00;&#x53D1;&#x524D;&#x7AEF;&#x9875;&#x9762;&#xFF0C;&#x540E;&#x7AEF;&#x5F00;&#x53D1;&#x5BF9;&#x5E94;&#x7684;&#x4E1A;&#x52A1;&#x53CA;&#x54CD;&#x5E94;&#x5904;&#x7406;&#x3002;</li>
+<li>&#x63D0;&#x793A;&#xFF1A;&#x6211;&#x4EEC;&#x73B0;&#x5728;&#x5047;&#x501F;&#x793A;&#x4F8B;&#x7F51;&#x7AD9;&#x4F5C;&#x4E3A;&#x539F;&#x578B;&#x56FE;&#x6765;&#x5206;&#x6790;&#x9700;&#x6C42;&#x3002;</li>
+</ul>
+<p>&#x9700;&#x6C42;&#x5206;&#x6790;&#x5185;&#x5BB9;</p>
+<ul>
+<li>&#x9875;&#x9762;&#x53CA;&#x9875;&#x9762;&#x4E0A;&#x7684;<strong>&#x4E1A;&#x52A1;&#x903B;&#x8F91;</strong>&#x3002;</li>
+<li>&#x5F52;&#x7EB3;&#x4E1A;&#x52A1;&#x903B;&#x8F91;&#x5E76;<strong>&#x5212;&#x5206;&#x6A21;&#x5757;</strong>&#x3002;</li>
+</ul>
+</blockquote>
+<h2 id="1-&#x9879;&#x76EE;&#x4E3B;&#x8981;&#x9875;&#x9762;&#x4ECB;&#x7ECD;">1. &#x9879;&#x76EE;&#x4E3B;&#x8981;&#x9875;&#x9762;&#x4ECB;&#x7ECD;</h2>
+<blockquote>
+<p><strong>1.&#x6CE8;&#x518C;&#x9875;&#x9762;</strong></p>
+</blockquote>
+<p><img src="../assets/&#x6CE8;&#x518C;&#x9875;&#x9762;.png" alt=""></p>
+<blockquote>
+<p><strong>2.&#x767B;&#x5F55;&#x9875;&#x9762;</strong></p>
+</blockquote>
+<p><img src="../assets/&#x767B;&#x5F55;&#x9875;&#x9762;.png" alt=""></p>
+<blockquote>
+<p><strong>3.&#x5FD8;&#x8BB0;&#x5BC6;&#x7801;&#x9875;&#x9762;</strong></p>
+</blockquote>
+<p><img src="../assets/&#x5FD8;&#x8BB0;&#x5BC6;&#x7801;&#x9875;&#x9762;.png" alt=""></p>
+<blockquote>
+<p><strong>4.&#x7528;&#x6237;&#x4E2D;&#x5FC3;&#x9875;&#x9762;</strong></p>
+</blockquote>
+<p><img src="../assets/&#x4E2A;&#x4EBA;&#x4E2D;&#x5FC3;&#x9875;&#x9762;.png" alt=""></p>
+<blockquote>
+<p><strong>5.&#x5199;&#x535A;&#x5BA2;&#x9875;&#x9762;</strong></p>
+</blockquote>
+<p><img src="../assets/&#x5199;&#x6587;&#x7AE0;&#x9875;&#x9762;.png" alt=""></p>
+<blockquote>
+<p><strong>6.&#x535A;&#x5BA2;&#x9996;&#x9875;</strong></p>
+</blockquote>
+<p><img src="../assets/&#x9996;&#x9875;.png" alt=""></p>
+<blockquote>
+<p><strong>7.&#x535A;&#x5BA2;&#x8BE6;&#x60C5;&#x9875;&#x9762;</strong></p>
+</blockquote>
+<h2 id="2-&#x5F52;&#x7EB3;&#x9879;&#x76EE;&#x4E3B;&#x8981;&#x6A21;&#x5757;"><img src="../assets/&#x535A;&#x5BA2;&#x8BE6;&#x60C5;&#x9875;&#x9762;.png" alt="">2. &#x5F52;&#x7EB3;&#x9879;&#x76EE;&#x4E3B;&#x8981;&#x6A21;&#x5757;</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">&#x6A21;&#x5757;</th>
+<th style="text-align:left">&#x529F;&#x80FD;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><strong>&#x6CE8;&#x518C;</strong></td>
+<td style="text-align:left">&#x56FE;&#x5F62;&#x9A8C;&#x8BC1;&#x3001;&#x77ED;&#x4FE1;&#x9A8C;&#x8BC1;</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>&#x767B;&#x5F55;</strong></td>
+<td style="text-align:left">&#x72B6;&#x6001;&#x4FDD;&#x6301;&#x3001;Cookie&#x3001;Session</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>&#x4E2A;&#x4EBA;&#x4E2D;&#x5FC3;</strong></td>
+<td style="text-align:left">&#x56FE;&#x7247;&#x4E0A;&#x4F20;&#x3001;&#x66F4;&#x65B0;&#x6570;&#x636E;</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>&#x53D1;&#x5E03;&#x535A;&#x5BA2;</strong></td>
+<td style="text-align:left">&#x6570;&#x636E;&#x5165;&#x5E93;</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>&#x535A;&#x5BA2;&#x9996;&#x9875;</strong></td>
+<td style="text-align:left">&#x6570;&#x636E;&#x5206;&#x9875;</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>&#x535A;&#x5BA2;&#x8BE6;&#x60C5;</strong></td>
+<td style="text-align:left">&#x535A;&#x5BA2;&#x8BE6;&#x60C5;&#x6570;&#x636E;&#x5C55;&#x793A;&#x3001;&#x8BC4;&#x8BBA;&#x529F;&#x80FD;</td>
+</tr>
+</tbody>
+</table>
+<h2 id="3-&#x9879;&#x76EE;&#x5F00;&#x53D1;&#x6A21;&#x5F0F;">3. &#x9879;&#x76EE;&#x5F00;&#x53D1;&#x6A21;&#x5F0F;</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">&#x9009;&#x9879;</th>
+<th style="text-align:left">&#x6280;&#x672F;&#x9009;&#x578B;</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><strong>&#x5F00;&#x53D1;&#x6A21;&#x5F0F;</strong></td>
+<td style="text-align:left">&#x524D;&#x540E;&#x7AEF;&#x4E0D;&#x5206;&#x79BB;</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>&#x540E;&#x7AEF;&#x6846;&#x67B6;</strong></td>
+<td style="text-align:left">Django + Django&#x6A21;&#x677F;&#x5F15;&#x64CE;</td>
+</tr>
+</tbody>
+</table>
+
+                    
+                    </section>
+                
+                
+                </div>
+            </div>
+        </div>
+
+        
+        <a href="../prepare.html" class="navigation navigation-prev " aria-label="Previous page: 项目准备"><i class="fa fa-angle-left"></i></a>
+        
+        
+        <a href="../prepare/create.html" class="navigation navigation-next " aria-label="Next page: 工程创建和配置"><i class="fa fa-angle-right"></i></a>
+        
+    </div>
+</div>
+
+        
+<script src="../gitbook/app.js"></script>
+
+    
+    <script src="../gitbook/plugins/gitbook-plugin-toggle-chapters/toggle.js"></script>
+    
+
+    
+    <script src="../gitbook/plugins/gitbook-plugin-splitter/splitter.js"></script>
+    
+
+    
+    <script src="../gitbook/plugins/gitbook-plugin-fontsettings/buttons.js"></script>
+    
+
+    
+    <script src="../gitbook/plugins/gitbook-plugin-sharing/buttons.js"></script>
+    
+
+<script>
+require(["gitbook"], function(gitbook) {
+    var config = {"fontsettings":{"family":"sans","size":2,"theme":"white"},"toggle-chapters":{},"splitter":{},"emphasize":{},"highlight":{},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]}};
+    gitbook.start(config);
+});
+</script>
+
+        <!-- body:end -->
+    </body>
+    <!-- End of book django项目 -->
+</html>
